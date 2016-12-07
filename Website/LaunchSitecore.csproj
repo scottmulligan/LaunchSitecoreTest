@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{51756291-4C53-4195-B018-F4175C5D1909}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LaunchSitecore</RootNamespace>
+    <AssemblyName>LaunchSitecore</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\Assemblies\EntityFramework.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Sitecore.Analytics">
+      <HintPath>..\Assemblies\Sitecore.Analytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Analytics.Automation">
+      <HintPath>..\Assemblies\Sitecore.Analytics.Automation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Analytics.Core">
+      <HintPath>..\Assemblies\Sitecore.Analytics.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Analytics.Model">
+      <HintPath>..\Assemblies\Sitecore.Analytics.Model.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Client">
+      <HintPath>..\Assemblies\Sitecore.Client.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.ContentSearch">
+      <HintPath>..\Assemblies\Sitecore.ContentSearch.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.ContentSearch.Linq">
+      <HintPath>..\Assemblies\Sitecore.ContentSearch.Linq.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.ExperienceEditor.Speak">
+      <HintPath>..\..\..\..\..\..\..\inetpub\wwwroot\LSMVC\Website\bin\Sitecore.ExperienceEditor.Speak.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Kernel">
+      <HintPath>..\Assemblies\Sitecore.Kernel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Mvc">
+      <HintPath>..\Assemblies\Sitecore.Mvc.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.1.2\lib\net45\System.Web.Helpers.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.1.2\lib\net45\System.Web.Razor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.1.2\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.1.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.4.0.30506.0\lib\net40\System.Net.Http.Formatting.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.4.0.30506.0\lib\net40\System.Web.Http.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.4.0.30506.0\lib\net40\System.Web.Http.WebHost.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\AuthoringExperience\PageEditor\GenerateFieldEditorUrl.cs" />
+    <Compile Include="Configuration\Events\mvc.exception\ShowPocErrorMessage.cs" />
+    <Compile Include="Configuration\Helpers\EditFrameHelper.cs" />
+    <Compile Include="Configuration\Pipelines\StartTracking\GeoIpSpoofForLocalhost.cs" />
+    <Compile Include="Configuration\Installer\LaunchSitecorePostPackageStep.cs" />
+    <Compile Include="Configuration\Search\ComputedFields\SiteAreaComputedField.cs" />
+    <Compile Include="Configuration\Security\CreateSecurityAccounts.cs" />
+    <Compile Include="Configuration\AuthoringExperience\ContentEditor\NoVersionInCurrentLanguageGutter.cs" />
+    <Compile Include="Configuration\Validators\MustIncludePTags.cs" />
+    <Compile Include="Configuration\Pipelines\GetContentEditorWarnings\ContentEditorItemNamingNotification.cs" />
+    <Compile Include="Configuration\Events\ItemSaving\ItemNameHyphenHandler.cs" />
+    <Compile Include="Configuration\Events\ItemSaving\ItemNameUniqueHandler.cs" />
+    <Compile Include="Configuration\Helpers\ItemNamingHelper.cs" />
+    <Compile Include="Configuration\Commands\UpdateItemNamesCommand.cs" />
+    <Compile Include="Configuration\AuthoringExperience\PageEditor\AlertDictionary.cs" />
+    <Compile Include="Configuration\Processors\saveUI\RemoveNonBreakingSpacesSaveProcessor.cs" />
+    <Compile Include="Configuration\SiteConfiguration.cs" />
+    <Compile Include="Configuration\Helpers\AnalyticsHelper.cs" />
+    <Compile Include="Configuration\Rules\EnrollInAutomationState.cs" />
+    <Compile Include="Configuration\SiteUI\LaunchSitecoreBaseController.cs" />
+    <Compile Include="Configuration\Comparers\ItemSorterByTitle.cs" />
+    <Compile Include="Configuration\Search\ComputedFields\HasPresentationComputedField.cs" />
+    <Compile Include="Configuration\Search\ComputedFields\ProfileCardComputedField.cs" />
+    <Compile Include="Configuration\Comparers\ItemIDComparer.cs" />
+    <Compile Include="Configuration\Helpers\HtmlRemoval.cs" />
+    <Compile Include="Configuration\Search\Models\SitecoreItem.cs" />
+    <Compile Include="Configuration\Helpers\UIHelpers.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\FavoritesController.cs" />
+    <Compile Include="Controllers\SiteConfigurationController.cs" />
+    <Compile Include="Controllers\ListsController.cs" />
+    <Compile Include="Controllers\MetaController.cs" />
+    <Compile Include="Controllers\NavigationController.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
+    <Compile Include="Controllers\SingleItemController.cs" />
+    <Compile Include="Controllers\VisitController.cs" />
+    <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\CarouselItem.cs" />
+    <Compile Include="Models\Error.cs" />
+    <Compile Include="Models\GenericLink.cs" />
+    <Compile Include="Models\JumbotronItem.cs" />
+    <Compile Include="Models\MenuItem.cs" />
+    <Compile Include="Models\MenuItemList.cs" />
+    <Compile Include="Models\PageEditorAlert.cs" />
+    <Compile Include="Models\PromoItem.cs" />
+    <Compile Include="Models\QuotationItem.cs" />
+    <Compile Include="Models\SearchResults.cs" />
+    <Compile Include="Models\SimpleItem.cs" />
+    <Compile Include="Models\SimpleItemList.cs" />
+    <Compile Include="Models\SimpleNavigationItem.cs" />
+    <Compile Include="Models\TextWidgetItem.cs" />
+    <Compile Include="Models\VisitInformation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\speak\LaunchFieldEditor.js" />
+    <Content Include="Views\Shared\ErrorDetails.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\css\color.css" />
+    <Content Include="assets\css\responsive.css" />
+    <Content Include="assets\css\custom.css" />
+    <Content Include="assets\css\bootstrap.css" />
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\img\baloon.gif" />
+    <Content Include="assets\img\blank.gif" />
+    <Content Include="assets\img\bottom_block_bg.png" />
+    <Content Include="assets\img\breadcrumb_icon.png" />
+    <Content Include="assets\img\collapse_btn.png" />
+    <Content Include="assets\img\collapse_btn_inverse.png" />
+    <Content Include="assets\img\grey_quote.png" />
+    <Content Include="assets\img\left_nav_bullets.png" />
+    <Content Include="assets\img\line.png" />
+    <Content Include="assets\img\line_title_bg.gif" />
+    <Content Include="assets\img\lite-gray-check.png" />
+    <Content Include="assets\img\nope.png" />
+    <Content Include="assets\img\over.png" />
+    <Content Include="assets\img\page.png" />
+    <Content Include="assets\img\quote.png" />
+    <Content Include="assets\img\quotes.png" />
+    <Content Include="assets\img\shadow1.png" />
+    <Content Include="assets\img\sitecore-logo.png" />
+    <Content Include="assets\img\slider_arrows.png" />
+    <Content Include="assets\img\value.png" />
+    <Content Include="assets\img\warning-icons.png" />
+    <Content Include="assets\js\bootstrap.js" />
+    <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\custom.js" />
+    <Content Include="assets\js\jquery-1.11.1.min.js" />
+    <Content Include="assets\js\jquery-1.7.2.min.js" />
+    <Content Include="assets\js\jquery-ui.min.js" />
+    <Content Include="assets\js\scrollReveal.js" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="license.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
+    <Content Include="Views\Account\ExternalLoginFailure.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\Manage.cshtml" />
+    <Content Include="Views\Account\Register.cshtml" />
+    <Content Include="Views\Account\_ChangePasswordPartial.cshtml" />
+    <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
+    <Content Include="Views\Account\_RemoveExternalLoginsPartial.cshtml" />
+    <Content Include="Views\Account\_SetPasswordPartial.cshtml" />
+    <Content Include="Views\Favorites\AddToFavorites.cshtml" />
+    <Content Include="Views\Navigation\Header.cshtml" />
+    <Content Include="Views\Shared\Main.cshtml" />
+    <Content Include="Views\Lists\Carousel.cshtml" />
+    <Content Include="Views\Lists\LinkList.cshtml" />
+    <Content Include="Views\Lists\IconAndTitleList.cshtml" />
+    <Content Include="Views\Lists\Tags.cshtml" />
+    <Content Include="Views\Lists\TeamList.cshtml" />
+    <Content Include="Views\Navigation\Breadcrumbs.cshtml" />
+    <Content Include="Views\Navigation\FooterNavigation.cshtml" />
+    <Content Include="Views\Navigation\MainNavigation.cshtml" />
+    <Content Include="Views\Navigation\SecondaryNavigation.cshtml" />
+    <Content Include="Views\Navigation\SecondaryNavigationSection.cshtml" />
+    <Content Include="Views\Navigation\TertiaryNavigation.cshtml" />
+    <Content Include="Views\Navigation\TertiaryNavigationPartialFavorites.cshtml" />
+    <Content Include="Views\Navigation\TertiaryNavigationPartialSites.cshtml" />
+    <Content Include="Views\Page Structure\Content\Both Sidebars.cshtml" />
+    <Content Include="Views\Page Structure\Content\Left Sidebar.cshtml" />
+    <Content Include="Views\Page Structure\Content\Right Sidebar.cshtml" />
+    <Content Include="Views\Page Structure\Home\One Three One.cshtml" />
+    <Content Include="Views\Page Structure\Home\One Three Three.cshtml" />
+    <Content Include="Views\Page Structure\Home\One Two Four One.cshtml" />
+    <Content Include="Views\Page Structure\Home\One Two Four.cshtml" />
+    <Content Include="Views\Search\Search.cshtml" />
+    <Content Include="Views\Search\SearchBox.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\ShowPageEditorAlert.cshtml" />
+    <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\SingleItem\AbstractBox.cshtml" />
+    <Content Include="Views\SingleItem\AbstractSpot.cshtml" />
+    <Content Include="Views\SingleItem\ArticleTitleAndBody.cshtml" />
+    <Content Include="Views\SingleItem\ArticleTitleImageAndBody.cshtml" />
+    <Content Include="Views\SingleItem\Biography.cshtml" />
+    <Content Include="Views\SingleItem\FeaturedQuotation.cshtml" />
+    <Content Include="Views\SingleItem\Jumbotron.cshtml" />
+    <Content Include="Views\SingleItem\PromoSpotWithImage.cshtml" />
+    <Content Include="Views\SingleItem\PromoSpotWithNoImage.cshtml" />
+    <Content Include="Views\SingleItem\PromoSpotWithThumbnailImage.cshtml" />
+    <Content Include="Views\SingleItem\TermDetails.cshtml" />
+    <Content Include="Views\SingleItem\TextWidget.cshtml" />
+    <Content Include="Views\SingleItem\TitleAndBody.cshtml" />
+    <Content Include="Views\Visit\VisitDetails.cshtml" />
+    <Content Include="Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\www.LaunchSitecore.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\www.LaunchSitecore.GeoIpSpoofForLocalhost.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\www.LaunchSitecore.ItemNaming.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\www.LaunchSitecore.LinkManager.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\www.LaunchSitecore.ContentSearch.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\www.LaunchSitecore.Registration.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\www.LaunchSitecore.PageEditor.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Page Structure\Home\One Four One.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Page Structure\Content\No Sidebars.cshtml" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49938</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49938/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>
