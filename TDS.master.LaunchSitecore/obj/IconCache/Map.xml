@@ -1,0 +1,947 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/layout/Layouts" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/layout" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/layout/Layouts/LaunchSitecore" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings" ItemIcon="/temp/IconCache/Software/16x16/elements1.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library" ItemIcon="/temp/IconCache/Applications/16x16/photo_scenery.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system" ItemIcon="/temp/IconCache/People/16x16/workstation1.png" />
+  <Item ItemPath="/sitecore/system/Modules" ItemIcon="/temp/IconCache/Software/16x16/jar.png" />
+  <Item ItemPath="/sitecore/content/Home" ItemIcon="/temp/IconCache/Network/16x16/home.png" />
+  <Item ItemPath="/sitecore/content/Developing-in-Sitecore" ItemIcon="/temp/iconcache/people/32x32/product.png" />
+  <Item ItemPath="/sitecore/content/Global" ItemIcon="/temp/IconCache/Network/16x16/earth.png" />
+  <Item ItemPath="/sitecore/layout/Layouts/LaunchSitecore/Main" ItemIcon="/temp/iconcache/applications/32x32/window.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Analytics" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Carousel" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Error" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Navigation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Search" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Secure" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color" ItemIcon="/temp/IconCache/Imaging/32x32/palette_b.png" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Layout Style" ItemIcon="/temp/IconCache/Software/32x32/layout_center.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article" ItemIcon="/temp/IconCache/Applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article Group" ItemIcon="/temp/IconCache/Software/32x32/component_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Audience Segment" ItemIcon="/temp/IconCache/Applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Error Page" ItemIcon="/temp/IconCache/Applications/32x32/forbidden.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/General Page" ItemIcon="/temp/IconCache/Applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home" ItemIcon="/temp/IconCache/Network/32x32/home.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Microsite Home" ItemIcon="/temp/IconCache/People/32x32/product.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Microsite Subpage" ItemIcon="/temp/IconCache/People/32x32/product2.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Security Page" ItemIcon="/temp/IconCache/Network/16x16/key1.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Team Member" ItemIcon="/temp/IconCache/People/16x16/user1.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Home/Audience" ItemIcon="/~/icon/Applications/32x32/clipboard.png.aspx" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore" ItemIcon="/~/icon/Applications/32x32/folder_green.png.aspx" />
+  <Item ItemPath="/sitecore/content/Home/Team" ItemIcon="/~/icon/People/32x32/users4.png.aspx" />
+  <Item ItemPath="/sitecore/content/Home/Glossary" ItemIcon="/~/icon/People/32x32/book_blue.png.aspx" />
+  <Item ItemPath="/sitecore/content/Home/Login" ItemIcon="/temp/IconCache/Network/16x16/key1.png" />
+  <Item ItemPath="/sitecore/content/Home/Register" ItemIcon="/temp/IconCache/Network/16x16/key1.png" />
+  <Item ItemPath="/sitecore/content/Home/Search" ItemIcon="/temp/IconCache/Applications/16x16/find.png" />
+  <Item ItemPath="/sitecore/content/Home/Error" ItemIcon="/temp/IconCache/applications/32x32/forbidden.png" />
+  <Item ItemPath="/sitecore/content/Home/Configuration" ItemIcon="/temp/IconCache/Applications/16x16/gear.png" />
+  <Item ItemPath="/sitecore/content/Developing-in-Sitecore/Step-1" ItemIcon="/temp/iconcache/people/32x32/product2.png" />
+  <Item ItemPath="/sitecore/content/Developing-in-Sitecore/Step-2" ItemIcon="/temp/iconcache/people/32x32/product2.png" />
+  <Item ItemPath="/sitecore/content/Developing-in-Sitecore/Configuration" ItemIcon="/~/icon/applications/16x16/gear.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content" ItemIcon="/temp/IconCache/Business/16x16/cabinet.png" />
+  <Item ItemPath="/sitecore/content/Global/Settings" ItemIcon="/temp/IconCache/Applications/16x16/preferences.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Articles By Contributor" ItemIcon="/temp/IconCache/WordProcessing/32x32/bullets.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Icon and Title List" ItemIcon="/temp/IconCache/WordProcessing/32x32/bullets.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Icon and Title List for Query" ItemIcon="/temp/IconCache/WordProcessing/32x32/bullets.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Link List" ItemIcon="/temp/IconCache/WordProcessing/32x32/bullets.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Queried List" ItemIcon="/temp/IconCache/WordProcessing/32x32/bullets.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Related Articles" ItemIcon="/temp/IconCache/WordProcessing/32x32/bullets.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Tags" ItemIcon="/temp/IconCache/applications/32x32/bookmark.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Navigation/Footer Navigation" ItemIcon="/temp/IconCache/Software/32x32/step_stop.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Navigation/Main Navigation" ItemIcon="/temp/IconCache/software/32x32/step.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Navigation/Navigation Bar" ItemIcon="/temp/IconCache/software/32x32/step.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Navigation/Secondary Navigation" ItemIcon="/temp/IconCache/software/32x32/step.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Content" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Search/Search Box" ItemIcon="/~/icon/Software/32x32/element.png.aspx" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Secure/Login" ItemIcon="/temp/IconCache/Network/16x16/key1.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Abstract Box" ItemIcon="/temp/IconCache/Software/32x32/breakpoint.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Abstract Spot" ItemIcon="/temp/IconCache/Software/32x32/breakpoint.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Article Title and Body" ItemIcon="/temp/IconCache/applications/32x32/text_rich_marked.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Article Title Image and Body" ItemIcon="/temp/IconCache/applications/32x32/text_rich_marked.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Biography" ItemIcon="/temp/IconCache/applications/32x32/text_rich_marked.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Featured Quotation" ItemIcon="/temp/IconCache/Business/32x32/thought.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Jumbotron" ItemIcon="/temp/IconCache/applications/32x32/text_rich_marked.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Promo with Image" ItemIcon="/temp/IconCache/business/32x32/phone_redirect.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Promo with No Image" ItemIcon="/temp/IconCache/business/32x32/phone_redirect.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Promo with Thumbnail" ItemIcon="/temp/IconCache/business/32x32/phone_redirect.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Term Details" ItemIcon="/temp/IconCache/applications/32x32/text_rich_marked.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Text Widget" ItemIcon="/temp/IconCache/Applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Blue" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Purple" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Orange" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Teal" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Black" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Gray" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Layout Style/Boxed" ItemIcon="/~/icon/Software/32x32/layout_horizontal.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/datasource is null" ItemIcon="/~/icon/business/16x16/message.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/item is not tagged" ItemIcon="/~/icon/business/16x16/message.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/list is empty" ItemIcon="/~/icon/business/16x16/message.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/no version in current language" ItemIcon="/~/icon/business/16x16/message.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article/Article" ItemIcon="/temp/IconCache/applications/16x16/form_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article Group/Article Group" ItemIcon="/temp/IconCache/software/32x32/component_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home/Home" ItemIcon="/temp/IconCache/network/32x32/home.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Team Member/Team Member Details" ItemIcon="/temp/IconCache/People/32x32/user1.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Team Member/Main" ItemIcon="/temp/IconCache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Term/Term" ItemIcon="/temp/IconCache/Business/16x16/address_book2.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/General Fields" ItemIcon="/temp/IconCache/Business/16x16/paperclip.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Site Section" ItemIcon="/temp/IconCache/People/16x16/cubes.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Articles Section" ItemIcon="/temp/IconCache/Applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Audience Section" ItemIcon="/temp/IconCache/Applications/32x32/clipboard.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Glossary Section" ItemIcon="/temp/IconCache/People/32x32/book_blue.png" />
+  <Item ItemPath="/sitecore/content/Home/Audience/Digital-Marketers" ItemIcon="/temp/iconcache/applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Home/Audience/Content-Owners" ItemIcon="/temp/iconcache/applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Home/Audience/Developers" ItemIcon="/temp/iconcache/applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Getting-Started" ItemIcon="/temp/iconcache/software/32x32/component_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site" ItemIcon="/temp/iconcache/software/32x32/component_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy" ItemIcon="/temp/iconcache/software/32x32/component_green.png" />
+  <Item ItemPath="/sitecore/content/Home/Team/Brad-Christie" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/content/Home/Team/Casey-Piket" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/content/Home/Team/Chris-Castle" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/content/Home/Team/Justin-West" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/content/Home/Team/Kevin-DiTroia" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/content/Home/Team/Matt-Goodman" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Content-Editor" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Content-Tree" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Device" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Insert-Options" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Item" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Layout" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Media-Library" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Page-Editor" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Placeholder" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Presentation-Details" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Rendering" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Sitecore-Desktop" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Standard-Values" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Sublayout" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Template-Manager" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items" ItemIcon="/temp/IconCache/applications/16x16/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Promo Spots" ItemIcon="/temp/IconCache/Applications/16x16/star_red.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Quotations" ItemIcon="/temp/IconCache/applications/32x32/about.png" />
+  <Item ItemPath="/sitecore/content/Global/Settings/External Sites" ItemIcon="/temp/IconCache/network/32x32/environment.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Content/Both Sidebars" ItemIcon="/temp/IconCache/Software/32x32/layout_vertical.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Content/Left Sidebar" ItemIcon="/temp/IconCache/Software/32x32/layout_vertical.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Content/No Sidebars" ItemIcon="/temp/IconCache/Software/32x32/layout_vertical.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home/One Four One" ItemIcon="/temp/IconCache/Software/32x32/layout_horizontal.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home/One Three One" ItemIcon="/temp/IconCache/Software/32x32/layout_horizontal.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home/One Three Three" ItemIcon="/temp/IconCache/Software/32x32/layout_horizontal.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home/One Two Four" ItemIcon="/temp/IconCache/Software/32x32/layout_horizontal.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Basic Presentation Description" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Building a custom validator" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a Custom Sorting Routine for Content" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Creating a List Control" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Creating the Site Menu" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Enable multiple languages" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Text Widgets" ItemIcon="/temp/IconCache/Applications/32x32/document_into.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Information Architecture" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multilingual Multiregional" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Sitecore User Interfaces" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Content" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Presentation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Brad Christie" ItemIcon="/temp/IconCache/~/media/b62c3f55072643ccb1eadd3a99830b78.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Brandon Royal" ItemIcon="/temp/IconCache/~/media/bc4f60c0c25740d9ac6a21ceed7030c0.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Casey Piket" ItemIcon="/temp/IconCache/~/media/84399122a896457998323c8662ec9136.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Chris Castle" ItemIcon="/temp/IconCache/~/media/78af441638f94066bb53779de548014b.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Howard Kim" ItemIcon="/temp/IconCache/~/media/9522d5cc2cb140f6b86d10cb42f2f9ff.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Justin West" ItemIcon="/temp/IconCache/~/media/c0096d657e21475abffd98e71ec757df.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Kevin DiTroia" ItemIcon="/temp/IconCache/~/media/543e5993cef547f9b62384addd86b0bd.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Matthew Goodman" ItemIcon="/temp/IconCache/~/media/bb2e8e98828e40ffbfdd3136f3c0c51a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Mike Casey" ItemIcon="/temp/IconCache/~/media/9ed8ccd6cfd64aa1967bf9a8fdee947e.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Patrick Wallace" ItemIcon="/temp/IconCache/~/media/add8aee75f3042cbb68f7e480d6efc21.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Buildings" ItemIcon="/temp/IconCache/~/media/49A59B6F88074FB68BD46A3E0BBAA619.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Grand Central" ItemIcon="/temp/IconCache/~/media/6787E7C4C9974CCEA2A26BC7E9697E20.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Lake" ItemIcon="/temp/IconCache/~/media/53D19B042D74491CBF36387341506951.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Lightbulbs" ItemIcon="/temp/IconCache/~/media/BE6601CE13654214BB43A60E576FFA69.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Mountains" ItemIcon="/temp/IconCache/~/media/2B4E05D831D04323BBFF69BD82092264.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Road" ItemIcon="/temp/IconCache/~/media/F39EE5B3C1DA49D0A08B0CB12E8CF056.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Rockets" ItemIcon="/temp/IconCache/~/media/1EE39F7FF71347AD99DB32DE3BCAC451.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/sitecore" ItemIcon="/temp/IconCache/~/media/F065346B348D41F19943A83A2711A217.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/sitecorelogo" ItemIcon="/temp/IconCache/~/media/57A86CEBDED54FE891AA5FFCB238D05C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Skyline" ItemIcon="/temp/IconCache/~/media/88B4EBDDF3E14B8B81865134488E96DD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Content Editor" ItemIcon="/temp/IconCache/~/media/c6ef98cde31d41f1a0b7c85c498d85c4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Content Tree" ItemIcon="/temp/IconCache/~/media/4d04ae42980449a4bc21caeaa34a33a7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Devices" ItemIcon="/temp/IconCache/~/media/945BEFCA862E471EA6FE3C68EBB99935.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Insert Options" ItemIcon="/temp/IconCache/~/media/7F0F7C2AC5CF47C9AAFE6F364044F8AD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Item" ItemIcon="/temp/IconCache/~/media/938BE2F0ED324554A457466E3D664B14.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Layout" ItemIcon="/temp/IconCache/~/media/CC5959D475C949FAB6F8C90AAF5FF243.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Media Library" ItemIcon="/temp/IconCache/~/media/F95A2C8561FC4DC280FD7C20FAA6FAC7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Page Editor" ItemIcon="/temp/IconCache/~/media/0f48dcfef8674958a5d43bc27e0d8e57.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Placeholder" ItemIcon="/temp/IconCache/~/media/4bb3516fcecd40a08a479aff23c457d9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Placeholder Settings" ItemIcon="/temp/IconCache/~/media/46BD454733E641EA80F4085EA27D757E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Presentation Details" ItemIcon="/temp/IconCache/~/media/24C8F8DE92EB4CC0AB5F3FF28C6FA334.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Rendering" ItemIcon="/temp/IconCache/~/media/EA3BBCB7F8954042928CE2DC8D95E2C5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Sitecore Desktop" ItemIcon="/temp/IconCache/~/media/4E2377332E374EC3B06324F89685C96A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Standard Values" ItemIcon="/temp/IconCache/~/media/FCAF91547C0B464087045899A25963B5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Sublayout" ItemIcon="/temp/IconCache/~/media/CF7A4926833745CA9802464C75D709B1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Template Manager" ItemIcon="/temp/IconCache/~/media/120FD25CFB7F44498A804787C1C39BB5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Logos/Inverse Logo" ItemIcon="/temp/IconCache/~/media/796f3b1675474722a155128bd1e4eb84.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Logos/Inverse Monochrome Logo" ItemIcon="/temp/IconCache/~/media/f401def79ab74951b8720d09c2dc0807.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Logos/Logo" ItemIcon="/temp/IconCache/~/media/3b8400df486848039a1f1fbf9560b68a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Lists" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Secure" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Content" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article/Article/Contributors" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home/Home/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home/Home/Subtitle" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home/Home/Body" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home/Home/Call to Action Text" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Term/Term/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Term/Term/Definition" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Site Section/Site Section" ItemIcon="/temp/IconCache/people/16x16/cubes.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Title Abstract and Text/Main" ItemIcon="/temp/IconCache/applications/32x32/text_rich.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Getting-Started/The-Sitecore-UIs" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/What-is-Content" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Basic-Presentation-Explanation" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Enable-multiple-languages" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Building-a-large-multinational-multilingual-site" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Minimizing-Downtime-During-Deployment" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Information-Architecture" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Binding-Content-and-Presentation" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Creating-the-Site-Menu" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Accessing-Current-Visitor-Information" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Create-a-custom-sorting-routine-for-content" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Create-a-Custom-Validator" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Creating-a-personalized-experience" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Create-an-AB-Test" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Default Carousel" ItemIcon="/~/icon/multimedia/32x32/fadein_video.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Developer Carousel" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Promo Spots/About Launch Sitecore" ItemIcon="/~/icon/Applications/16x16/star_yellow.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Promo Spots/Favorite Articles" ItemIcon="/~/icon/Applications/16x16/star_yellow.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Promo Spots/Getting Started with Launch Sitecore" ItemIcon="/~/icon/Applications/16x16/star_yellow.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Promo Spots/Thank You" ItemIcon="/~/icon/Applications/16x16/star_yellow.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Quotations/Sitecore is Awesome" ItemIcon="/~/icon/Applications/32x32/about.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Text Widgets/About Launch Sitecore" ItemIcon="/~/icon/applications/32x32/text_align_left.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Settings/External Sites/Sitecore" ItemIcon="/~/icon/core3/32x32/home_yellow.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Settings/Queries/All Content Owner Articles" ItemIcon="/~/icon/Applications/32x32/view_next.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Settings/Queries/All Developer Articles" ItemIcon="/~/icon/Applications/32x32/view_next.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Settings/Queries/All Marketing Articles" ItemIcon="/~/icon/Applications/32x32/view_next.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Marketer Carousel" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Basic Presentation Description/basic layout wireframe" ItemIcon="/temp/IconCache/~/media/A35E6AFB79374FF5A033CE63914E245F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Basic Presentation Description/presdetailsoverall" ItemIcon="/temp/IconCache/~/media/7623B2B0E6C2468E800127064FA042B3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Building a custom validator/5242012 24540 PM" ItemIcon="/temp/IconCache/~/media/9DA433C526E74BA6A1CA9492F34E10D8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Building a custom validator/custom validator" ItemIcon="/temp/IconCache/~/media/889548DA8332476FAA03C2F0261469EA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal/goals checklist" ItemIcon="/temp/IconCache/~/media/C909511B355A40A1A09B77E574B4B29D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal/newsletter_goal" ItemIcon="/temp/IconCache/~/media/C1213AB10DAB495D98658C485E2E8CB7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Enable multiple languages/language_locale" ItemIcon="/temp/IconCache/~/media/964BE0C4499246DFA8A60DC5BD85CC98.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Enable multiple languages/language_locale2" ItemIcon="/temp/IconCache/~/media/AD9EC0E5EDC045D196E7B93AEFB9DB09.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Information Architecture/Content Tree" ItemIcon="/temp/IconCache/~/media/096ea1e0415946ad923eb06dd14e6439.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Conditions" ItemIcon="/temp/IconCache/~/media/2E5216785AAB4DC4A86693E5B77AEDCA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Create Rules" ItemIcon="/temp/IconCache/~/media/56F8E5CDFC684DD79D69083D9BD86A7D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Design Mode" ItemIcon="/temp/IconCache/~/media/88457AA9F56F468BADB7489889587A51.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Layout Details" ItemIcon="/temp/IconCache/~/media/DF6B14B7066145B28F5A13CCF5A6A67E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/marketingspot" ItemIcon="/temp/IconCache/~/media/e330c46b9752498abb50e04f803f6c54.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/New Condition" ItemIcon="/temp/IconCache/~/media/9169FB6CF5C44BBDA775DA938DDFF350.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Personalize in Content Editor" ItemIcon="/temp/IconCache/~/media/EC263BB1711F4E2E83B9E13B3D44BCB4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Personalize the Component" ItemIcon="/temp/IconCache/~/media/2BDE6885C0EF4DCAA7AE15BC2D518182.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multilingual Multiregional/clones1" ItemIcon="/temp/IconCache/~/media/8088E5AB298643FFA7E2E6EA454FDFF2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multilingual Multiregional/clones2" ItemIcon="/temp/IconCache/~/media/9963C9AF7B8145FBBC0AF76D877D5BE5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Available Variations" ItemIcon="/temp/IconCache/~/media/008E8007B2FF4DEE8D24BD96E6E12B9F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Gallery" ItemIcon="/temp/IconCache/~/media/17F8B859C2CE486D9CD086A095FAA57A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/MV Test Content" ItemIcon="/temp/IconCache/~/media/ABAA113D417342C790BB6B86F3D2EDDC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Start Test" ItemIcon="/temp/IconCache/~/media/E6F701E6A86440958DBB9DCF59FCBF6D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Test button" ItemIcon="/temp/IconCache/~/media/7D7E9063A2B94F2EA9FA5655F72DD70B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Test Name" ItemIcon="/temp/IconCache/~/media/F6C4B96CD7F94B87B452DDE52DB5A985.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Test Results" ItemIcon="/temp/IconCache/~/media/7F00A30756884A759232EA1C6823981C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Test Strategy" ItemIcon="/temp/IconCache/~/media/3A17B0DD348D4AB7984BBF2D1BECF533.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Sitecore User Interfaces/content editor" ItemIcon="/temp/IconCache/~/media/9BFB4DEB1928413188B7B4BE8C6AE48E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Sitecore User Interfaces/desktop" ItemIcon="/temp/IconCache/~/media/DE1358AF9AFC4470B86CE37B16515F2F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Sitecore User Interfaces/options" ItemIcon="/temp/IconCache/~/media/6D870DCA691844AD8FCC543D4A9985AA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Connie" ItemIcon="/temp/IconCache/~/media/E0087664F046418BA14125FEEF5CC048.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Connie Rule" ItemIcon="/temp/IconCache/~/media/2928D6626FB5420DB82EC98814F2DD57.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Looks Like Connie" ItemIcon="/temp/IconCache/~/media/BDF02EDB690A453CBCE2141DEE69EC19.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Profile Card" ItemIcon="/temp/IconCache/~/media/F4F1E78FA8D6439A8E7FA1610BECF731.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Profile Content" ItemIcon="/temp/IconCache/~/media/B40929DE9ED04AF6813D7B9BFCB95134.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Profile Key Content" ItemIcon="/temp/IconCache/~/media/8EF384E4B2E04202A509DB01826DC872.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Content/article" ItemIcon="/temp/IconCache/~/media/b989daf8442946fda6aeb33916c477e7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Content/content" ItemIcon="/temp/IconCache/~/media/fd0c719fa60145c4ac73fb7334a74b64.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Presentation/full title" ItemIcon="/temp/IconCache/~/media/FE7748827E1E46A387451D41F749491E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Presentation/main layout" ItemIcon="/temp/IconCache/~/media/D7E60BCDE3A6491FAAAB8A1C74FD7546.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/bridge" ItemIcon="/temp/IconCache/~/media/3e22fc76c73d4b05a81f3945af7e2ffa.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/blue" ItemIcon="/temp/IconCache/~/media/67b26fc24728434d993244a928a37c76.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/chain" ItemIcon="/temp/IconCache/~/media/9c20c5d9d3524403b02073b502ded80a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/chili peppers" ItemIcon="/temp/IconCache/~/media/d610d1fc06e14d168508f8d467b03a11.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/clover" ItemIcon="/temp/IconCache/~/media/7e56eb784f35405d85a5023131ef9dd8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/clownfish" ItemIcon="/temp/IconCache/~/media/352de5fe21714e4dbaba08bd12f40ac9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/coffee beans" ItemIcon="/temp/IconCache/~/media/5818b69fa64947a2925d87cf57beef8d.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/dandeliion" ItemIcon="/temp/IconCache/~/media/48b4f35bbb7146c5a49f33c74e6a42cb.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/fall leaves" ItemIcon="/temp/IconCache/~/media/554f82c35c104c52b6cf99d44d05d661.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/grapes" ItemIcon="/temp/IconCache/~/media/5bdb86f3352547088e80130cca6259d4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/grass" ItemIcon="/temp/IconCache/~/media/d112c5c5ac7948e391ae9e257ade79fd.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/jelly beans" ItemIcon="/temp/IconCache/~/media/a854fb0cb79b441c9729cd5de369b31b.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/lightning" ItemIcon="/temp/IconCache/~/media/eb394e2ebfd3465694491bed7cb036fb.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/lights" ItemIcon="/temp/IconCache/~/media/63a0c1ba5e07448cb2e5ca00ccc9b2b8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/mountian" ItemIcon="/temp/IconCache/~/media/9b5e01b87c7847db84497014812ce6b1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/pencils" ItemIcon="/temp/IconCache/~/media/ac1e5b4660004d2e8fa6e218b91c7d2b.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/piano" ItemIcon="/temp/IconCache/~/media/8cc4f982b89d44b5b74e46daf1ae6148.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/river" ItemIcon="/temp/IconCache/~/media/3af9f32e04fc4f17a2f14522571e55ed.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/road" ItemIcon="/temp/IconCache/~/media/e47d6712294045019564b912236bbf5e.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/rust" ItemIcon="/temp/IconCache/~/media/585f28d56bae40ec957d31bf328dbaae.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/stream" ItemIcon="/temp/IconCache/~/media/58c017c2887e433fb05a109ea4c53298.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/tree line" ItemIcon="/temp/IconCache/~/media/2be7d59763aa48f2a8aec55695de0b7e.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/van" ItemIcon="/temp/IconCache/~/media/2d3d7d29d8ba4c6dafa8c86d258ead2c.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/walkway" ItemIcon="/temp/IconCache/~/media/b30ac4e2bb8d42cc9a4d030d1cedf5b7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/walkway 2" ItemIcon="/temp/IconCache/~/media/264063a50f7148038ab8148deaaa0856.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Sitecore Branding/blue" ItemIcon="/temp/IconCache/~/media/fe3a8deb10cd4597b30862cee1abdef2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Sitecore Branding/gray" ItemIcon="/temp/IconCache/~/media/950caec9dc22402ab975a835b1271486.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Sitecore Branding/red" ItemIcon="/temp/IconCache/~/media/f8a42adb22924338808d4fbace5cddb9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/cube blue" ItemIcon="/temp/IconCache/~/media/BD39004C3B064B61A1804FC6FA0FAF92.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/cubes blue" ItemIcon="/temp/IconCache/~/media/39755EA08CE44332A2D854A160D70310.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/document edit" ItemIcon="/temp/IconCache/~/media/A812EA8B61D34FCC975D5EDAC66D7637.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/elements selection" ItemIcon="/temp/IconCache/~/media/8DB8017E2F4143A5B64D55E481053EFA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/elements1" ItemIcon="/temp/IconCache/~/media/CE4A565444034665AFC583273118AB11.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/form blue" ItemIcon="/temp/IconCache/~/media/D42DBCFF55334529B5925A5183318847.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/monitor" ItemIcon="/temp/IconCache/~/media/8C0951A159764EB8AB079AED145EFB6F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/outbox" ItemIcon="/temp/IconCache/~/media/9490209039D64AFBBB5C67982CCDE354.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/pda" ItemIcon="/temp/IconCache/~/media/416DD1755A264EE8936275098DC71A2B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/photo scenery" ItemIcon="/temp/IconCache/~/media/9B84295D99A344FBBE996AA52C5E8295.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/table selection block" ItemIcon="/temp/IconCache/~/media/F396E729901B42C5ACE78CA8D9096A92.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/window view" ItemIcon="/temp/IconCache/~/media/746BED8DE02348F6BEEDAF060277D956.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Lists/Carousel" ItemIcon="/temp/IconCache/~/media/64f06570e6c0458aa26ed939e475f092.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Lists/Icon and Title List" ItemIcon="/temp/IconCache/~/media/d69f381e21f240d1a46af39e70d684c1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Lists/Link List" ItemIcon="/temp/IconCache/~/media/99798820b45e4246a716102053d7de33.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Lists/Secondary Navigation" ItemIcon="/temp/IconCache/~/media/d800a604952a4c048b2d7704b7facd7f.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Lists/Tags" ItemIcon="/temp/IconCache/~/media/41aa61adc5ca4ecf9869fc003266ce6c.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Secure/Login" ItemIcon="/temp/IconCache/~/media/f78528a3926e48daa28809eb0e81175e.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Abstract Box" ItemIcon="/temp/IconCache/~/media/846f4a5ea7164d389df44ee0d932c17a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Abstract Spot" ItemIcon="/temp/IconCache/~/media/3b8f1749c7664a219509b49e1751f01a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Article Title and Body" ItemIcon="/temp/IconCache/~/media/e3270d657a8f44c4b171efa5c1c97f1a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Article Title Image and Body" ItemIcon="/temp/IconCache/~/media/fa6bd62020c44130b4aba0f3b9e32654.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Biography" ItemIcon="/temp/IconCache/~/media/d7cc2ef0dcb1470cac97e3433440fd84.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Featured Quotation" ItemIcon="/temp/IconCache/~/media/f702fc27a8f24353925633fa54a02e1a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Jumbotron" ItemIcon="/temp/IconCache/~/media/682bb92ea1c74a78be71cc93ffd58295.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Promo with Image" ItemIcon="/temp/IconCache/~/media/8daeb24f0b7d45599809dc244cf903c4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Promo with No Image" ItemIcon="/temp/IconCache/~/media/bd5160449b5a4fbbadd6194545568ff9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Promo with Thumbnail" ItemIcon="/temp/IconCache/~/media/174d5b5747ec4b45a6c08c6370962960.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Term Details" ItemIcon="/temp/IconCache/~/media/16eca8745b4c47dc99b24b38cacb65e7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Text Widget" ItemIcon="/temp/IconCache/~/media/305c04eae32443fa9f4955c4945c4936.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Content/both sidebars" ItemIcon="/temp/IconCache/~/media/1b44ae7e83dd433eab0da0306987c819.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Content/left sidebar" ItemIcon="/temp/IconCache/~/media/b0fb4532b2ab4121887e6686fe94f69c.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Content/no sidebars" ItemIcon="/temp/IconCache/~/media/1f89080bbe764d25970b7e58fe0fb6c7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home/one four one" ItemIcon="/temp/IconCache/~/media/42fcbf65920e49cfa3c859c9b3631bc7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home/one three one" ItemIcon="/temp/IconCache/~/media/7c1b5ec503e24fe7a2945e2d63f501fb.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home/one three three" ItemIcon="/temp/IconCache/~/media/c4895f1e7d7d42278cc70f64a13d013a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home/one two four" ItemIcon="/temp/IconCache/~/media/0cc3deb5738e46579289fd3a0e19c1bb.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/General Fields/General/Icon" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Title Abstract and Text/Main/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Title Abstract and Text/Main/Abstract" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Default Carousel/Read the Articles" ItemIcon="/~/icon/multimedia/32x32/image.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Default Carousel/Meet the Team" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Developer Carousel/Building a Site" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Developer Carousel/Visit Details" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Marketer Carousel/Optimizing the Site" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/add" ItemIcon="/temp/IconCache/~/media/49ADAC11B8104D1387B9C92791C3457F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/address-book" ItemIcon="/temp/IconCache/~/media/5322F3AE33FE44138023A07ED60EB503.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/address-book-2" ItemIcon="/temp/IconCache/~/media/723F0353D2C04CAE8C7B88A5981F138F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/alarm-clock" ItemIcon="/temp/IconCache/~/media/5F1AFA0FCCDF4194B26CE8E82FF99E68.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/align-bottom-edges" ItemIcon="/temp/IconCache/~/media/FD43E5470C7D4A8D8AB9008851F8191D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/align-horizontal-centers" ItemIcon="/temp/IconCache/~/media/0081AECA0E644028878440AC5F037351.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/align-left-edges" ItemIcon="/temp/IconCache/~/media/163BE1A202FF4967BA4E786071B89641.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/align-right-edges" ItemIcon="/temp/IconCache/~/media/A712056E0F0D403AB04DBE5E62F01124.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/align-top-edges" ItemIcon="/temp/IconCache/~/media/7D83077D3A924FB594667ACDC59251A5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/align-vertical-centers" ItemIcon="/temp/IconCache/~/media/3209706215E849C9BF9A54B3A9CD128B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/anchor" ItemIcon="/temp/IconCache/~/media/FD84201CBD5949E4BDBB3C9BC35DDFDB.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/arrow-down" ItemIcon="/temp/IconCache/~/media/1561E5214EE04C4C916817F0D2098E21.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/arrow-left" ItemIcon="/temp/IconCache/~/media/F2BA3E957B7248CF8B99BA8F3308F43A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/arrow-right" ItemIcon="/temp/IconCache/~/media/A8612D4786D8477E93324E3CDB19BB9E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/arrow-up" ItemIcon="/temp/IconCache/~/media/4E6DDE5AF1264A6388EFF08ECBBFC698.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/asterisk" ItemIcon="/temp/IconCache/~/media/BAD8EA5AE06D493F81113E186A18ACFA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/at" ItemIcon="/temp/IconCache/~/media/C9C7F0593C1940A39295C4A87B682DEA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/attachment" ItemIcon="/temp/IconCache/~/media/0FC162B2F9D247B7944F28419B5D9774.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/attachment-2" ItemIcon="/temp/IconCache/~/media/422BCBDD58C349CF89D847083D4A6626.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/audio-high" ItemIcon="/temp/IconCache/~/media/EFE5BB1A80E748938213B16901045CCF.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/audio-low" ItemIcon="/temp/IconCache/~/media/BBEF39B9B358446CB3BB84BE019A632B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/audio-mid" ItemIcon="/temp/IconCache/~/media/57142245F19F48F2A460EDDC57DB8A2E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/audio-mute" ItemIcon="/temp/IconCache/~/media/01CA2B37777F423FB99318ACDA3BADD4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-100" ItemIcon="/temp/IconCache/~/media/89D6FAABA6C14445A519FF97A0367A6C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-100-2" ItemIcon="/temp/IconCache/~/media/E812962AF187446A8C16A2CC3CD5FAD7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-20" ItemIcon="/temp/IconCache/~/media/9D46140B5497499CB81AD50B5DB642B5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-20-2" ItemIcon="/temp/IconCache/~/media/11F1EFC0A5AE423C84CB5E03944D3476.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-40" ItemIcon="/temp/IconCache/~/media/0C4974EEBD2D421F99B622DE0A786FCC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-40-2" ItemIcon="/temp/IconCache/~/media/371E8D55154041119E164FAAF68EE53A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-60" ItemIcon="/temp/IconCache/~/media/467162AFC7844CA68972EAC4AA917458.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-60-2" ItemIcon="/temp/IconCache/~/media/510777AC17A94ED08B1CFC324581869C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-80" ItemIcon="/temp/IconCache/~/media/B35802CA81A548A0986097F98A4F6E2D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-80-2" ItemIcon="/temp/IconCache/~/media/89FF9E1917DA4A5FB04487E777D1B7EA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-charge" ItemIcon="/temp/IconCache/~/media/ABF45F9B210B4FA8B0C8778A7697B23C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-charge-2" ItemIcon="/temp/IconCache/~/media/186184AB9E964E08AECA478821831709.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-empty" ItemIcon="/temp/IconCache/~/media/92F9E3768DF04E1A8B063D2964C0F9CB.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/battery-empty-2" ItemIcon="/temp/IconCache/~/media/EB39927E7CBF4A15892FEA8FB67BD532.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bell" ItemIcon="/temp/IconCache/~/media/274F1C80F427453EBDE77B6F7FED785D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bell-2" ItemIcon="/temp/IconCache/~/media/AF86EB730FDD4A3D8A055C19D1432DA4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bell-mute" ItemIcon="/temp/IconCache/~/media/1ECB4E94F72D462A9D125D5F072F6EFC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bell-mute-2" ItemIcon="/temp/IconCache/~/media/DF32FB2358CA4DB7B5460D735A4DDB05.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bin" ItemIcon="/temp/IconCache/~/media/A9FD89D77DC14DA6A5348064B2F2FB88.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bin-2" ItemIcon="/temp/IconCache/~/media/E6D2B8C37DD64BFE90F96ECFD6A57892.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bin-3" ItemIcon="/temp/IconCache/~/media/463AF1A4C5F5485899F2D646764CCD33.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/book" ItemIcon="/temp/IconCache/~/media/24289CB06C584271A6CCB8BF7B678637.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/book-2" ItemIcon="/temp/IconCache/~/media/7F5766468B4844A38CE5A40513AD1FE2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/book-lines" ItemIcon="/temp/IconCache/~/media/D8D863AF2062449DA936F01F2F525C96.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/book-lines-2" ItemIcon="/temp/IconCache/~/media/FEED231ACA954030B7711D3E98B82C62.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/brightness-high" ItemIcon="/temp/IconCache/~/media/8053DA33BE4E43F5BA5D6428818DC630.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/brightness-low" ItemIcon="/temp/IconCache/~/media/14FBB6C7BCF04028A94D48A4397F3C68.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser" ItemIcon="/temp/IconCache/~/media/6D8C64A3D7084A4E9D4892E9A0F375F7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-2" ItemIcon="/temp/IconCache/~/media/F4ED2EEDCA6741619F8022FB4D1162D7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-close" ItemIcon="/temp/IconCache/~/media/6A3215A5B0004A0D8E2070CC8B278C06.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-close-2" ItemIcon="/temp/IconCache/~/media/68F2D95B09804DD399C5FE248F6ED3B8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-download" ItemIcon="/temp/IconCache/~/media/F9F4443D5FCB4DD6879E4AE0D21F8C10.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-download-2" ItemIcon="/temp/IconCache/~/media/DE8E55189D7B4E869139C2527241AF67.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-minimise" ItemIcon="/temp/IconCache/~/media/AD83AF4ACE7C454CA01416EAAA4C8C31.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-minimise-2" ItemIcon="/temp/IconCache/~/media/ED34786A3B7C4E7383142F7B0B314828.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-new-window" ItemIcon="/temp/IconCache/~/media/07269E40EBBE498490C7606B369BBB0B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-new-window-2" ItemIcon="/temp/IconCache/~/media/DB89BB6D4D5E4B88A53A9699162FB044.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-upload" ItemIcon="/temp/IconCache/~/media/A2FD4F84DBDF41D3B3AC15710F80F477.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-upload-2" ItemIcon="/temp/IconCache/~/media/8F0D03CAA8DC4721BF421F6C78879D3D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-windows" ItemIcon="/temp/IconCache/~/media/91456431D4FC413BA5C26920692CDBD9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/browser-windows-2" ItemIcon="/temp/IconCache/~/media/7935DC4F37D544C689676662A2664E6B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bulb" ItemIcon="/temp/IconCache/~/media/3E7F1AAF59EF423F9E04FD933FE63D22.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bulb-2" ItemIcon="/temp/IconCache/~/media/3CE9D7C8B21241A9976B894B50579E96.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bullet" ItemIcon="/temp/IconCache/~/media/71E7EF3DFEAE44D5AEB7EC7B23E4A907.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bullhorn" ItemIcon="/temp/IconCache/~/media/C0E849F455C84219B21F2C025F329F0A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/calendar" ItemIcon="/temp/IconCache/~/media/01208932D57D47D48529D04E138AB6E5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/camera" ItemIcon="/temp/IconCache/~/media/C3D548E0CB27491089AA79FAE7EF050A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/camera-2" ItemIcon="/temp/IconCache/~/media/8972F4AD5C864423857292B80AA9EAEE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/camera-3" ItemIcon="/temp/IconCache/~/media/9B8DEDFFD9324ACE9AB66E914B29243E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/casette" ItemIcon="/temp/IconCache/~/media/C0CD46C247ED456299B195A518B18BE3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/clipboard" ItemIcon="/temp/IconCache/~/media/52F32FF7AD714DBC983B018033643409.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/clipboard-2" ItemIcon="/temp/IconCache/~/media/F9E5F6358D544C01844F62F279556077.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/clock" ItemIcon="/temp/IconCache/~/media/84C1EAF844C14FDFA730F7A3C7CB1590.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cloud" ItemIcon="/temp/IconCache/~/media/06C414A05240425095B4F247AFE4CE9D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cloud-add" ItemIcon="/temp/IconCache/~/media/945DD6F8EACD4306B24A7552849D3F41.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cloud-add-2" ItemIcon="/temp/IconCache/~/media/19CC458DF85846F5B8B91B7493B8178A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cloud-download" ItemIcon="/temp/IconCache/~/media/1416A0B80F82417F9AEE446AD17445D4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cloud-remove" ItemIcon="/temp/IconCache/~/media/650A20D6959A46A69F4778F02508ECDB.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cloud-remove-2" ItemIcon="/temp/IconCache/~/media/CEEE1C5AD22945CC91326E1082E34FA9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cloud-upload" ItemIcon="/temp/IconCache/~/media/B179B72A36E449D086605AA62EE97D58.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cmd" ItemIcon="/temp/IconCache/~/media/A3D9EBD74B834CC1831370E3C9A17151.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/code" ItemIcon="/temp/IconCache/~/media/7E099B18F6B4474EB96C14C9AF70AA50.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/commit" ItemIcon="/temp/IconCache/~/media/6FF10586DC124955ADB2D481B54C301A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/compass" ItemIcon="/temp/IconCache/~/media/9AAFC60341394C5A9EC30588899C31D5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/compose" ItemIcon="/temp/IconCache/~/media/72AE9BB6D6A349E1816F846DD6A89C59.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/compose-2" ItemIcon="/temp/IconCache/~/media/902B55732D734789B66761A2AC5610C4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/compose-3" ItemIcon="/temp/IconCache/~/media/1A30A161187D4F9FAC3F29954FEE5FA4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/compose-4" ItemIcon="/temp/IconCache/~/media/7B2A2CB36DAD4DA397CD98A2CF1D087F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/contract" ItemIcon="/temp/IconCache/~/media/27F2AB1B0C2D4E1E9AA470CCE0B76454.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/contract-2" ItemIcon="/temp/IconCache/~/media/8A2F4B12DB244E35AC2410826EE25C00.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/contract-3" ItemIcon="/temp/IconCache/~/media/961641D312E6476C9C1CE44206E47708.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/contrast" ItemIcon="/temp/IconCache/~/media/286FCB0613E74A1D977A172BE183CB15.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/converge" ItemIcon="/temp/IconCache/~/media/D11D6E2005E14113BBE4ED3B494B0F0C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/crate" ItemIcon="/temp/IconCache/~/media/C2E5E47C1FAA434EACB30420AEBBCA40.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/credit-card" ItemIcon="/temp/IconCache/~/media/A90DC36765FF447098E75BBDECBB2F90.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/credit-card-2" ItemIcon="/temp/IconCache/~/media/DE6821C163274FDCB191966381CB20FE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/credit-card-3" ItemIcon="/temp/IconCache/~/media/57A9A6A9DE134AD5ACFF1773CD164189.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/credit-card-4" ItemIcon="/temp/IconCache/~/media/ECB785C6AA344B07A6EE7B057321026B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/crop" ItemIcon="/temp/IconCache/~/media/728BA5D3A7264F1AB7CD4D46FA29941D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/cross" ItemIcon="/temp/IconCache/~/media/B929879AC4F94B44A52BB304DBA264B2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/curlybrace" ItemIcon="/temp/IconCache/~/media/F40E4DC068814231BDC65C1024F2BF7C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/curlybrace-2" ItemIcon="/temp/IconCache/~/media/EFC0BA6A14114FABAEE294C7F8A1EFC8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/database" ItemIcon="/temp/IconCache/~/media/2C748B28015E45C69BE2DFBFE9E7FC2D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/database-add" ItemIcon="/temp/IconCache/~/media/92516C1F57604F349F9AC3A9FC85EE9D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/database-remove" ItemIcon="/temp/IconCache/~/media/961C9C9BEB094C0F9E00B39505638644.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/delete" ItemIcon="/temp/IconCache/~/media/BCAD62AD405D44399E48C661BBDA951E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/distribute-bottom-edges" ItemIcon="/temp/IconCache/~/media/7424CC6E182E4867B2CDCC5C64F45FEE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/distribute-horizontal-centers" ItemIcon="/temp/IconCache/~/media/AD47C469128B4D6AAFC95FE2815277D4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/distribute-left-edges" ItemIcon="/temp/IconCache/~/media/DD40A00F3CA648A79F36FF8785C2D7EA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/distribute-right-edges" ItemIcon="/temp/IconCache/~/media/3ABE27DE79CB4FD4A99E4A362EF9F2D0.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/distribute-top-edges" ItemIcon="/temp/IconCache/~/media/4A580C04E42F492F965B17469FB3ADCD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/distribute-vertical-centers" ItemIcon="/temp/IconCache/~/media/75CF4DCBA7B94EF68B0B803F285905E5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/document" ItemIcon="/temp/IconCache/~/media/9223D41633B94631AE873262670F3688.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/document-add" ItemIcon="/temp/IconCache/~/media/70B6E60AF76A40BDA652B04CF04CDA2C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/document-remove" ItemIcon="/temp/IconCache/~/media/AA482B3EE8404C5882693D4AEACE0072.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/droplet" ItemIcon="/temp/IconCache/~/media/F9CE9CB2E0084E0C919AB981935D8661.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/ellipsis" ItemIcon="/temp/IconCache/~/media/692077EF693848B5B663413B244D7B78.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/envelope" ItemIcon="/temp/IconCache/~/media/34232DFF976A47EC83204FE04CABBF29.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/exclude" ItemIcon="/temp/IconCache/~/media/2726EE3D7B93464091ACD48661F1EE8A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/expand" ItemIcon="/temp/IconCache/~/media/71722808170344F1806B76C9052226AD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/expand-2" ItemIcon="/temp/IconCache/~/media/3DA8EDE00485448698BDDE96E8B485F3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/expand-3" ItemIcon="/temp/IconCache/~/media/800AEF69D10D4C6A9143A625F2634A19.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/eye" ItemIcon="/temp/IconCache/~/media/D2FDA606AF0441B48B67CB91989F8C75.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/eye-2" ItemIcon="/temp/IconCache/~/media/AAE833E6E3534BB48E153A5C56E1DE0C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/fast-forward" ItemIcon="/temp/IconCache/~/media/4B60DAE28B574B2F8C940A29567D21C8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/flag" ItemIcon="/temp/IconCache/~/media/0F3939BE1C004D8B9D094A0588403D80.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/flag-2" ItemIcon="/temp/IconCache/~/media/5D36F4DA748348BDB0A4746B5452B32C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/flask-empty" ItemIcon="/temp/IconCache/~/media/C9588C308F024F358EAB438E91374EE7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/flask-full" ItemIcon="/temp/IconCache/~/media/5F22B4519725486FAEB1B02B30D3DB99.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/floppy" ItemIcon="/temp/IconCache/~/media/D1ADB123C0DE498C84D7431FA4A0ABD1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/flux" ItemIcon="/temp/IconCache/~/media/3C533997087D4B2EB95987FA102CF75E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder" ItemIcon="/temp/IconCache/~/media/6A030619C32C4CCAB8AA9D0729057843.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder-2" ItemIcon="/temp/IconCache/~/media/0FAFE3F140E3449083CB7B44E6061539.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder-add" ItemIcon="/temp/IconCache/~/media/23953843BB4E4B0B9099E2AE654EB6B9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder-add-2" ItemIcon="/temp/IconCache/~/media/D4106391B60A4056AAE364E661FC2EC7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder-duplicate" ItemIcon="/temp/IconCache/~/media/CEE33909BE4E4AAA8077A29A3C94AD04.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder-duplicate-2" ItemIcon="/temp/IconCache/~/media/4215930A67C04B24BEE3E10390C76A41.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder-remove" ItemIcon="/temp/IconCache/~/media/5A6A7EEC605C4F5980B66F22AF11E7C5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/folder-remove-2" ItemIcon="/temp/IconCache/~/media/2061008FA6494C429CC835B3831026EF.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/grid" ItemIcon="/temp/IconCache/~/media/14284451629844E8A9542A8824A1F61C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/grid-2" ItemIcon="/temp/IconCache/~/media/F59DEBB194E642B2AAC8607D1202AF9A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/headphones" ItemIcon="/temp/IconCache/~/media/C4D15E14D8294FE891DCFA03CC62F2E3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/heart-empty" ItemIcon="/temp/IconCache/~/media/7641DF55014944D5A15151136096F90A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/heart-full" ItemIcon="/temp/IconCache/~/media/9D11874F62564B33A6B9CE66EDE21455.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/heart-half" ItemIcon="/temp/IconCache/~/media/D21AEF75F64F4E559DF2BE3ED9436E4B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/home" ItemIcon="/temp/IconCache/~/media/76DFC58859494933BCC76C26CF83BEF9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/home-2" ItemIcon="/temp/IconCache/~/media/D1C44841F0AE49D9BA83CBB36525FF13.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/home-3" ItemIcon="/temp/IconCache/~/media/91A9C25B0E674215BBEC2219CFBCD0D8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/image" ItemIcon="/temp/IconCache/~/media/3B69D10BB6D64BF788269C82BCCC418D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/in" ItemIcon="/temp/IconCache/~/media/310E454CCCE342B6BD892E31DF219693.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/inbox" ItemIcon="/temp/IconCache/~/media/93C676DCA42D4C52828EC21BB9733076.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/inbox-2" ItemIcon="/temp/IconCache/~/media/44E0F58BD50744C59A892B58A9A41F16.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/infinity" ItemIcon="/temp/IconCache/~/media/735442B259FA4A0FBBF191A90D75B3E0.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/intersect" ItemIcon="/temp/IconCache/~/media/39CB6F9EB3E14D9A8D596D0E8F85B939.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/key" ItemIcon="/temp/IconCache/~/media/8A7F38B4D65A42CFA32E9215B61C06DE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/key-2" ItemIcon="/temp/IconCache/~/media/146565C2705E4AFA9C98063B9F889D64.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/keys" ItemIcon="/temp/IconCache/~/media/123EC2B80ACE45BAA81C84D6B097F02F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/layout-column-center" ItemIcon="/temp/IconCache/~/media/AB0953D5770D471A8AF1F7877E65302A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/layout-content-left" ItemIcon="/temp/IconCache/~/media/DF4425450F2F47DDAD45AF8B5DA0B779.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/layout-content-left-2" ItemIcon="/temp/IconCache/~/media/A694E01B2BEC4E4BBEB167E9F3AFFBCA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/layout-content-right" ItemIcon="/temp/IconCache/~/media/6E8047C9256C43059232AE5467689CA9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/layout-content-right-2" ItemIcon="/temp/IconCache/~/media/567C2C8DED764E7BBE9627F0C9EBCB6A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/layout-sidebar-left" ItemIcon="/temp/IconCache/~/media/071FCA8736D948858BECAD852DA231BD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/layout-sidebar-right" ItemIcon="/temp/IconCache/~/media/3A1EFCACAC02457C9EFDB565B8F72909.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/link" ItemIcon="/temp/IconCache/~/media/2A90D1E487ED4BFD8392AE73747DECC6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/link-2" ItemIcon="/temp/IconCache/~/media/5CAD2DE716EA4D78BA9AB5FBF306AD50.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/list" ItemIcon="/temp/IconCache/~/media/714875358BA7482D88DFB3D4BB0C0B04.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/list-2" ItemIcon="/temp/IconCache/~/media/F8D09D66898248B18F9DD778C6858B02.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/locked" ItemIcon="/temp/IconCache/~/media/605CF27A26C648798C4434DC1D7728A8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/mail" ItemIcon="/temp/IconCache/~/media/6C7F4FECBE8C4C4AB31199B1B59F91CD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/mail-2" ItemIcon="/temp/IconCache/~/media/8D1F9D7F541247D890A9CFDE847537A8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/mail-3" ItemIcon="/temp/IconCache/~/media/EF8C34516CCA4B9E99934C7BFAFEF185.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/mail-4" ItemIcon="/temp/IconCache/~/media/21026EAB2798462ABBD32375585A631F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/mail-incoming" ItemIcon="/temp/IconCache/~/media/3BBC2F5D20C440458761E86252D4737B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/mail-outgoing" ItemIcon="/temp/IconCache/~/media/AA2FC36D13F546D9A8567DF08A193415.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/map" ItemIcon="/temp/IconCache/~/media/1D80CB149B304046B1256286ABAF29B6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/map-2" ItemIcon="/temp/IconCache/~/media/53B2BC80E3E94384842C5F28B280C808.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/marquee" ItemIcon="/temp/IconCache/~/media/82D3105121184C39A59176E3080A04BD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/marquee-download" ItemIcon="/temp/IconCache/~/media/791B4AD8951849A390875C0BFF113F53.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/marquee-minus" ItemIcon="/temp/IconCache/~/media/CA044DE0D17949C0BE95A0FFB6750925.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/marquee-plus" ItemIcon="/temp/IconCache/~/media/43B81450D195436DAE4B72C87748BB60.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/marquee-upload" ItemIcon="/temp/IconCache/~/media/ED351480FCE7452FBF74F266528B2FAC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/maximise" ItemIcon="/temp/IconCache/~/media/DD79174E47464088AC68929AAE4522BF.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/menu" ItemIcon="/temp/IconCache/~/media/5EA736514F684BE6969E31B421A9CAF7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/menu-2" ItemIcon="/temp/IconCache/~/media/C5C1F340AB2B4B98B3335B5FA333AE8E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/menu-pull-down" ItemIcon="/temp/IconCache/~/media/C33E433F84F846549FA97AA84372FB59.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/menu-pull-up" ItemIcon="/temp/IconCache/~/media/9E1D6A206181487C8708262476ADD49F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/microphone" ItemIcon="/temp/IconCache/~/media/3ED64FCC62694E3EB48E0B7A20F240F2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/microphone-2" ItemIcon="/temp/IconCache/~/media/584FA703F9BA4245B387ABA8C29DF08A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/minus" ItemIcon="/temp/IconCache/~/media/F220B7FB6E9A4A09B5CBD00D78C3C016.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/mixer" ItemIcon="/temp/IconCache/~/media/6A87B39108B844E49DA5765DA1B6A1FA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/newspaper" ItemIcon="/temp/IconCache/~/media/43AC962BAB664D01A19E6D07A5034BBB.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/newspaper-2" ItemIcon="/temp/IconCache/~/media/E7B7BFFA59E946909AB0BB99965FA3F8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/next" ItemIcon="/temp/IconCache/~/media/3816C2B7482D4B70B23C697F3EC887E2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/nib" ItemIcon="/temp/IconCache/~/media/75EED1B655544D899300C6843093DD0B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/nope" ItemIcon="/temp/IconCache/~/media/10AE4E40FECC4947AC3CDA2CA10582B4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/notes" ItemIcon="/temp/IconCache/~/media/65A853A9016C450283900E90858CF508.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/options" ItemIcon="/temp/IconCache/~/media/3D9BCD830E864B36A48D9097DB2FD8AA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/out" ItemIcon="/temp/IconCache/~/media/21E1723708D94A988680622CB9999A3B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/outbox" ItemIcon="/temp/IconCache/~/media/0A00CABDF8B0405FAFC4AE34E75EAAA5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/outbox-2" ItemIcon="/temp/IconCache/~/media/88F947A6D1264FAF986BD12D12B5693B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/outgoing" ItemIcon="/temp/IconCache/~/media/07F099BE32F14F0284A7692D23B92C59.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paper-ripped" ItemIcon="/temp/IconCache/~/media/C16AA8A87676441B95813A2B57818B69.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paper-roll" ItemIcon="/temp/IconCache/~/media/4A036D5222F74B978333FCD2368FA823.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paper-roll-ripped" ItemIcon="/temp/IconCache/~/media/09A434D4A78C4B668F6F71CF5CD70BDF.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-center" ItemIcon="/temp/IconCache/~/media/D53469DFC1234321BE6818E0C3352A8D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-center-2" ItemIcon="/temp/IconCache/~/media/EFDD6416071143F099D2117E7F737315.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-justify" ItemIcon="/temp/IconCache/~/media/6087C9DF06764E8D8656E6700429F390.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-justify-2" ItemIcon="/temp/IconCache/~/media/E8165CCD5E404449870BECC59FCB4B82.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-left" ItemIcon="/temp/IconCache/~/media/503471C450C64353AF10CAA40AD0FDA2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-left-2" ItemIcon="/temp/IconCache/~/media/485CCFB7202F4E21A2B45C20093F4488.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-right" ItemIcon="/temp/IconCache/~/media/5AC04044362F4124979DFA7F733B6B17.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/paragraph-right-2" ItemIcon="/temp/IconCache/~/media/60C8E2741E634F7487B4F2A4C841FF39.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/pause" ItemIcon="/temp/IconCache/~/media/E8F0DE0433F1447CAF8F5927C168FAD7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/pen" ItemIcon="/temp/IconCache/~/media/0306A0C25F784BE99FAB14DFE8767006.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/pencil" ItemIcon="/temp/IconCache/~/media/77044B70EC7E48C39620727D87FB65D3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/pin" ItemIcon="/temp/IconCache/~/media/53F2C267AF56419B83D8A9E2DCD65C88.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/pin-2" ItemIcon="/temp/IconCache/~/media/5565DECD955348CFB48D4BB6CEBAEB52.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/play" ItemIcon="/temp/IconCache/~/media/B50E069738EC43F49FBEB71895809FCE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/plus" ItemIcon="/temp/IconCache/~/media/FCAAF89BE9D04BFDA5FD498D41E9EF28.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/podcast" ItemIcon="/temp/IconCache/~/media/E84813787FC54AC5A13F54B3C4341A16.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/podcast-2" ItemIcon="/temp/IconCache/~/media/B440864CEA4A42458CE8924C15C6B189.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/polaroid" ItemIcon="/temp/IconCache/~/media/15E0BC376F374C17B116BD2A8352F392.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/polaroid-2" ItemIcon="/temp/IconCache/~/media/844B291AD701496B9BDBC57DDC58FC6F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/power" ItemIcon="/temp/IconCache/~/media/C1A349EC3B5944DCBAFBC50C791C9682.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/previous" ItemIcon="/temp/IconCache/~/media/D4BE0F4B218A41CC8D82335EE4A22C10.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/print" ItemIcon="/temp/IconCache/~/media/1102B2FD0BBD46F2BC9EEABE6268BB74.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/pull" ItemIcon="/temp/IconCache/~/media/9F455954E6284FEB933EC3D43777E117.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/quill" ItemIcon="/temp/IconCache/~/media/5D7A1BE8959B4547A60CFA3D19AA547C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/quill-2" ItemIcon="/temp/IconCache/~/media/4EDB1CD72E8941D99626CB67CDBA266D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/refresh" ItemIcon="/temp/IconCache/~/media/834017E23FF74487B5EBCEC49FA0F6D5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/reminder" ItemIcon="/temp/IconCache/~/media/383FE9885C0C4380AFCC931E62E7B2DD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/remove" ItemIcon="/temp/IconCache/~/media/C1E662911DB64B5C9470353154B6131C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/repeat" ItemIcon="/temp/IconCache/~/media/D91E0119344B43729E99B66EE07B2FC6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/repeat-2" ItemIcon="/temp/IconCache/~/media/664915377E2A407B9A31EEEB9087811C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/reply" ItemIcon="/temp/IconCache/~/media/082566CD4B584239833C24A531FF7390.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/reply-all" ItemIcon="/temp/IconCache/~/media/6FA0EFF2BACA40FBB63E2EC0C6194B2C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/return" ItemIcon="/temp/IconCache/~/media/5EDB067F851B412BABDA4D63909AFED6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/revert" ItemIcon="/temp/IconCache/~/media/1DD8F7267C414D0FB8CEBFF1F91E6168.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/rewind" ItemIcon="/temp/IconCache/~/media/4F3084A27EE84F468A544AC47F34E391.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/rulers" ItemIcon="/temp/IconCache/~/media/8E03A66374E2421A88436BAD27EA61A9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/safe" ItemIcon="/temp/IconCache/~/media/BEE231810D764A5F9A6DEE1814EE12A0.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/search" ItemIcon="/temp/IconCache/~/media/7475299D3F4140CC8BDD98747E3E8A81.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/search-2" ItemIcon="/temp/IconCache/~/media/9E17185A7CE04B31938FD587BE87FDF1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/section" ItemIcon="/temp/IconCache/~/media/7370BD4BD780460A92EE57219B30D708.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/settings" ItemIcon="/temp/IconCache/~/media/A6992FC5C97742E1BDC5F6425CB60FE3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/settings-2" ItemIcon="/temp/IconCache/~/media/737FAA1894344AC1ADDA80E0F0D48677.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/settings-3" ItemIcon="/temp/IconCache/~/media/95446EB3D86B403AA38A88BBCB5781FC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/settings-4" ItemIcon="/temp/IconCache/~/media/BA844CF23448490EAE8679A74596D98D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/shred" ItemIcon="/temp/IconCache/~/media/C234C196BF9B4123A88AE19D81FC3962.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/shuffle" ItemIcon="/temp/IconCache/~/media/D07C56C888864BFD910C0BCE14B3105A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/sleep" ItemIcon="/temp/IconCache/~/media/DD164D545C7E439AA4A4E0EFD5D4766B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/spam" ItemIcon="/temp/IconCache/~/media/360A3F98E72E4C6B97C02D9D3FE03F0F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/spam-2" ItemIcon="/temp/IconCache/~/media/8B9A51A323414F9F9EA8B757F34D6B56.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-center" ItemIcon="/temp/IconCache/~/media/868E757CEB8140759F2CD1E69FF0610A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-center-2" ItemIcon="/temp/IconCache/~/media/B9BBAB759C144B569113834B7BF37B78.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-center-3" ItemIcon="/temp/IconCache/~/media/AD7E45C61ECB4F19A5AE4FBEC60B5A69.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-left" ItemIcon="/temp/IconCache/~/media/ADCDDBA85F2E4AD380DBB3540679FC96.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-left-2" ItemIcon="/temp/IconCache/~/media/C6CF926BBF5E47E68C3DAD085CD9A639.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-left-3" ItemIcon="/temp/IconCache/~/media/79EB8DFF8A9D431A83D5AF2131561C5C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-left-4" ItemIcon="/temp/IconCache/~/media/5FA3B70CAF7A4EBFA1EAA5C612107453.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-right" ItemIcon="/temp/IconCache/~/media/92DC86EA72B8458A83099A285161ACFC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-right-2" ItemIcon="/temp/IconCache/~/media/6CC68196862542FE836407C257D0BF2F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-right-3" ItemIcon="/temp/IconCache/~/media/99D6EEC378C1455E96D1F989F2C12051.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/speech-bubble-right-4" ItemIcon="/temp/IconCache/~/media/0007E10CB870460580D83BE0A3E6C1EC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/spinner" ItemIcon="/temp/IconCache/~/media/30C2C23C735C47B89B543C8C97BFE722.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/spinner-2" ItemIcon="/temp/IconCache/~/media/028BD2A579D74B9D841787D0ECD5347A.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/spinner-3" ItemIcon="/temp/IconCache/~/media/650DC1DABCFD4EC585D818A444F5393D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/split" ItemIcon="/temp/IconCache/~/media/E5EC5F0D7AB14E82ABEC35330F144803.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/split-2" ItemIcon="/temp/IconCache/~/media/16D04AFE1E66473480397469A08ABB2F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/spool" ItemIcon="/temp/IconCache/~/media/0A1757D50ED148309AE2DF54333F5A21.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/square-brackets" ItemIcon="/temp/IconCache/~/media/467E1E33C40F457BB2E63464579CEB46.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/stamp" ItemIcon="/temp/IconCache/~/media/D73BA31285214189ABFD2CDCD0705472.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/stamp-2" ItemIcon="/temp/IconCache/~/media/0D110FE7F07743FFA5A455A2C7582A47.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/star" ItemIcon="/temp/IconCache/~/media/B866C53C2AF245378D86940C4DD645B3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/star-2" ItemIcon="/temp/IconCache/~/media/CA53B6BF40424B068224745A5ED4873D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/stiffy" ItemIcon="/temp/IconCache/~/media/DE0D23B7B6F44560B3546F09B978B96E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/stop" ItemIcon="/temp/IconCache/~/media/E753E5C2D5014EB0AA9AB8DE75EAF47B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/stopwatch" ItemIcon="/temp/IconCache/~/media/C9D479FD01404689874E901E402796BD.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/store" ItemIcon="/temp/IconCache/~/media/539D3402604A4D829311C8CF469B3C38.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/store-2" ItemIcon="/temp/IconCache/~/media/A8186F7CEE244894AE7EB50AA692169C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/subtract" ItemIcon="/temp/IconCache/~/media/650C6B1721A5434286BF2CA386989728.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/support" ItemIcon="/temp/IconCache/~/media/506C2B6ADF584568BE880E94999C48B1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/support-2" ItemIcon="/temp/IconCache/~/media/0CB340ABB16A42CBBF3DECCC27B33611.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/support-3" ItemIcon="/temp/IconCache/~/media/EDA49244A09D437DA67EA4BB8D9BAD98.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/swap" ItemIcon="/temp/IconCache/~/media/F5784F6FD7104271AFDB0B3B981085DA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/swap-2" ItemIcon="/temp/IconCache/~/media/C9A03A9BE0CF42C7965FE146DB7F09D4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/swatch" ItemIcon="/temp/IconCache/~/media/160B663188A94719A3912F68B71DD9B7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/swatches" ItemIcon="/temp/IconCache/~/media/97843AB76111470BAA0FA28A27824395.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/switch-off" ItemIcon="/temp/IconCache/~/media/E7B33481B6C84C2294238D1F20D06BEE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tag" ItemIcon="/temp/IconCache/~/media/535FFB78D6DC4B0E924F04BA450827D1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tag-2" ItemIcon="/temp/IconCache/~/media/1DDF3CF816E94BBD933DC0356BAC88B9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tag-3" ItemIcon="/temp/IconCache/~/media/AE064A6B9BEF4908A73B670F8BB5B404.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tag-4" ItemIcon="/temp/IconCache/~/media/3A5075F3193646CC805E3CBDE5D74E32.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/terminal" ItemIcon="/temp/IconCache/~/media/E0095B0924A14DA6A963B291534E4BA5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/terminal-2" ItemIcon="/temp/IconCache/~/media/47CD1CC9884B46078F3C8C2E62BC7D90.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/terminal-3" ItemIcon="/temp/IconCache/~/media/E8D61BCF18984251AA19184E411B45A7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tick" ItemIcon="/temp/IconCache/~/media/E16C74504B3D439EB546A69C8DEBCF6B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tilde" ItemIcon="/temp/IconCache/~/media/39F7BCF998154BF7B1FCAE6BCA67A729.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/timeline" ItemIcon="/temp/IconCache/~/media/943B67BA5F4C474FA10D82BD515FDD60.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/toggle-off" ItemIcon="/temp/IconCache/~/media/23519650C66C4D1E9C3C4F3BA5CF0A64.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/toggle-on" ItemIcon="/temp/IconCache/~/media/D3763AC2E45E48078957F00274168CA4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/transfer" ItemIcon="/temp/IconCache/~/media/3D8E51B8ACDD49528060EB1663C74BC4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/tray" ItemIcon="/temp/IconCache/~/media/CE42234051014D049A87A977EA887A70.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/unite" ItemIcon="/temp/IconCache/~/media/58C965069C674E0CBE3109EB02FCB14E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/unlocked" ItemIcon="/temp/IconCache/~/media/2E2337FE6DE04F05A8EF4BA0C4F14418.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/unwatch" ItemIcon="/temp/IconCache/~/media/C5D3B3B781234635AC532874CC2D09E9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user" ItemIcon="/temp/IconCache/~/media/7506C27D9E6943F1AB1D9154D08C728D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-2" ItemIcon="/temp/IconCache/~/media/5582F94FD4864B579251FD25821F1A53.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-2-add" ItemIcon="/temp/IconCache/~/media/89A4D10EC2554FFDA6A6B5727C942968.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-2-remove" ItemIcon="/temp/IconCache/~/media/DCCA3F71089644A2ACFE6EF11DFB2517.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-3" ItemIcon="/temp/IconCache/~/media/6D28F35F47DC4D8E8BD0EB7B58C94762.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-4" ItemIcon="/temp/IconCache/~/media/8A48C884E9034C0EBA4E5282934404BE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-4-add" ItemIcon="/temp/IconCache/~/media/2C8CC446FFF44DE68F758EF8A2BC6A74.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-4-remove" ItemIcon="/temp/IconCache/~/media/7A8A769DE7484F179001D472D737972D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/user-card" ItemIcon="/temp/IconCache/~/media/D688AE3D68274F71B2C0682E67A2E287.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/users" ItemIcon="/temp/IconCache/~/media/6C6F6E3F7DCA47648F8A014A961F3F57.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/video" ItemIcon="/temp/IconCache/~/media/201A5A1BDB1040F68B7125AFA7B54CD3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/video-2" ItemIcon="/temp/IconCache/~/media/432821F2A3A64FABA5D94C0761A95352.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/vinyl" ItemIcon="/temp/IconCache/~/media/1567891015F1488CBFB88744C7D49D6B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/voicemail" ItemIcon="/temp/IconCache/~/media/141807AEAD304A94A05CFAF25E2A35A8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wallet" ItemIcon="/temp/IconCache/~/media/DABD6040F939426498E6BBB0A4738672.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wallet-2" ItemIcon="/temp/IconCache/~/media/76D7F3AD363749A09679FB82DF186F69.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/watch" ItemIcon="/temp/IconCache/~/media/64F6AF381F284C79A5429357314983BF.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/watch-2" ItemIcon="/temp/IconCache/~/media/B4B83BCADE20448FB94B5794374CB899.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wave" ItemIcon="/temp/IconCache/~/media/02A9CEF5B703402B93BDF08627C3327E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wave-2" ItemIcon="/temp/IconCache/~/media/7E9FFB79BF784C9B82F852F91E35DBC4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wifi-full" ItemIcon="/temp/IconCache/~/media/7ACD544167604BA0940DF236A4884E34.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wifi-low" ItemIcon="/temp/IconCache/~/media/9D60D03BF4404598877D375BBC9FB9C3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wifi-mid" ItemIcon="/temp/IconCache/~/media/114BBAB3C73C46AE938B79F4369D0EA9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/wiggle" ItemIcon="/temp/IconCache/~/media/7797357897D347C68E937C80AB3B963B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/windows" ItemIcon="/temp/IconCache/~/media/C93B9AB9A4BE4DC1B423270E99A1B4C9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/zoom-in" ItemIcon="/temp/IconCache/~/media/4E2E50717075498DA51F72B6A32842A3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/zoom-in-2" ItemIcon="/temp/IconCache/~/media/5CF1897C715A4709B119A3C572D103DA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/zoom-out" ItemIcon="/temp/IconCache/~/media/3231B23447C044C3B1502B33D8421E71.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man - Genius" ItemIcon="/temp/IconCache/~/media/51E06037EB4E48F5A293FD9A806C7ED4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Black Hat" ItemIcon="/temp/IconCache/~/media/85914320F92E4077A52C3786B40F064C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Green" ItemIcon="/temp/IconCache/~/media/91833BC5A4AB4FE5A3D7D645D2684323.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Green 2" ItemIcon="/temp/IconCache/~/media/2E123B281E674EE68A2909785D814272.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Red Cap" ItemIcon="/temp/IconCache/~/media/4F7DD8C6E29F41D6902C2C7C3E5F16C6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Red Hat" ItemIcon="/temp/IconCache/~/media/55B4D488B3CC4433AF5C184164A9CEAE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Red Shirt" ItemIcon="/temp/IconCache/~/media/FC17F28000A9496C98738BAFA41FED01.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man in Suit" ItemIcon="/temp/IconCache/~/media/4CDE80C5B23B44EC907A03232C182978.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man with Beard" ItemIcon="/temp/IconCache/~/media/0C2C0B55756E402CAD38F1E7345E2C32.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man with Headphones" ItemIcon="/temp/IconCache/~/media/859384F6925D4FE9A8DBDDE9B6C6F661.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Man with Headset" ItemIcon="/temp/IconCache/~/media/55A43ACF6B754D5C959C3AFB22AAFDF4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Student" ItemIcon="/temp/IconCache/~/media/0A8423EBAB7F442F9F50DC98CA88CBDC.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Blue" ItemIcon="/temp/IconCache/~/media/8630194CECE34D6BA3A64649D840D6B4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Blue 2" ItemIcon="/temp/IconCache/~/media/5107259E47F44407A76483EA1FEB6D7E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Blue 3" ItemIcon="/temp/IconCache/~/media/976C372388154854ABE12D8F0D10EADA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Green" ItemIcon="/temp/IconCache/~/media/C45E9B5A316141C0ABDD41ABC080971E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Red Shirt" ItemIcon="/temp/IconCache/~/media/1925D4F0B6DE49DE8470798DA83AD1AF.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/Green Pawn" ItemIcon="/temp/IconCache/~/media/46E58931C0AD4B578150B834DABD27D7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/Plue Pawn" ItemIcon="/temp/IconCache/~/media/DB192B29F925405A90C7C9F7AB9938E6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/Red Pawn" ItemIcon="/temp/IconCache/~/media/A684E427189C42B7ABAF25A0FD0BF355.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/White Pawn" ItemIcon="/temp/IconCache/~/media/E11025BC218C4AB48C765A367562B3D1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Doctor" ItemIcon="/temp/IconCache/~/media/632D7EBAF2CE4CC0BA7B003099551819.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Guard" ItemIcon="/temp/IconCache/~/media/1DC3D4C087F34A45AD93DF4CF036D00E.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Magician" ItemIcon="/temp/IconCache/~/media/792B1519172148D380BB45C2A34399BE.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Nurse in Green" ItemIcon="/temp/IconCache/~/media/81FC10663916463693FBCBF83A222E5F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Nurse in White" ItemIcon="/temp/IconCache/~/media/2ED71E34BE4D4C2BA47D6232E9A10B3F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Pilot Modern" ItemIcon="/temp/IconCache/~/media/0F6FBACCC72C4FC7A70469F711C82592.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Pilot Vintage" ItemIcon="/temp/IconCache/~/media/9A5216FB0B904C99A43BE4EAE5542FE7.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Policeman Bobby" ItemIcon="/temp/IconCache/~/media/E680E35FCEAB4E48A3F1FE37D39C8C50.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Policeman German" ItemIcon="/temp/IconCache/~/media/208A63CCAF31457383F0589F84C9BEDF.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Policeman USA" ItemIcon="/temp/IconCache/~/media/731E311E754C48B4ABEA955ADA660C52.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Scientist" ItemIcon="/temp/IconCache/~/media/6FFEAE6DEC1A40418742F72AC1E2B487.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Surgeon in Blue" ItemIcon="/temp/IconCache/~/media/2DDDEF4271E6431398D04B5DBE69D3EA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Surgeon in Green" ItemIcon="/temp/IconCache/~/media/5242D444DEFD4C3980C47697E1903017.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Worker in Overalls" ItemIcon="/sitecore/shell/themes/standard/~/media/2992AB2BBDAB4C13B04F9A912460EF66.ashx?h=16&amp;thn=1&amp;w=16&amp;db=master" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images/Worker" ItemIcon="/temp/IconCache/~/media/C261025A7A9E4CD3BF78B6E10BB7921C.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Default Carousel/Visit Details" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Term" ItemIcon="/temp/IconCache/Business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Microsite Home/__Standard Values" ItemIcon="/temp/iconcache/people/32x32/product.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Launch Sitecore/Carousel Set" ItemIcon="/temp/IconCache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/templates/Branches" ItemIcon="/temp/IconCache/Software/16x16/component.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Launch Sitecore" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Launch Sitecore/Carousel Set/$name" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Launch Sitecore/Carousel Set/$name/Sample Slide" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Launch Sitecore/Microsite" ItemIcon="/temp/IconCache/people/32x32/product.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Launch Sitecore/Microsite/$name" ItemIcon="/temp/iconcache/people/32x32/product.png" />
+  <Item ItemPath="/sitecore/templates/Branches/Launch Sitecore/Microsite/$name/Configuration" ItemIcon="/temp/iconcache/applications/16x16/gear.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Developer Carousel/Learn the Terms" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Marketer Carousel/Digital Marketers" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Carousel Items/Marketer Carousel/Visit Details" ItemIcon="/temp/iconcache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/content/Global/Content/Promo Spots/What is Your Job Function" ItemIcon="/~/icon/Applications/16x16/star_yellow.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Quotations/TDS Makes a Developers Life Easier" ItemIcon="/~/icon/Applications/32x32/about.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Content/Text Widgets/Getting Started as a Developer" ItemIcon="/~/icon/applications/32x32/text_align_left.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Settings/External Sites/Documentation" ItemIcon="/~/icon/core3/32x32/home_yellow.png.aspx" />
+  <Item ItemPath="/sitecore/content/Global/Settings/Queries" ItemIcon="/temp/IconCache/Database/32x32/last.png" />
+  <Item ItemPath="/sitecore/content/Global/Settings/Queries/All Network Admin Articles" ItemIcon="/~/icon/Applications/32x32/view_next.png.aspx" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/Creating-a-List-Control" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Building-the-Site/What-is-Presentation" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Getting-Started/The-Launch-Sitecore-Site" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience" ItemIcon="/temp/iconcache/software/32x32/component_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Create-a-Goal" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Optimizing-the-Experience/Tag-Content-for-Each-Profile" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Security-Authentication-and-Authorization" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/About-Launch-Sitecore/Our-Strategy/Workflow" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/content/Home/Audience/Network-Architects" ItemIcon="/temp/iconcache/applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Home/Glossary/Workbox" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/content/Home/Team/Patrick-Wallace" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Analytics/Visit Details" ItemIcon="/temp/IconCache/business/32x32/column-chart.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Carousel/Carousel" ItemIcon="/temp/IconCache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Error/Error" ItemIcon="/temp/IconCache/applications/32x32/forbidden.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Lists/Team List" ItemIcon="/temp/IconCache/WordProcessing/32x32/bullets.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Navigation/Tertiary Navigation" ItemIcon="/temp/IconCache/software/32x32/step.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Content/Right Sidebar" ItemIcon="/temp/IconCache/Software/32x32/layout_vertical.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Page Structure/Home/One Two Four One" ItemIcon="/temp/IconCache/Software/32x32/layout_horizontal.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Search/Search Results" ItemIcon="/~/icon/Software/16x16/element.png.aspx" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Secure/Register" ItemIcon="/temp/IconCache/Network/16x16/key1.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/LaunchSitecore/Single Item/Title and Body" ItemIcon="/temp/IconCache/applications/32x32/text_rich_marked.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Basic Presentation Description/presentation details dialog" ItemIcon="/temp/IconCache/~/media/05BE26EC68214BB993083240F00A3E1D.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Building a custom validator/Quick Info" ItemIcon="/temp/IconCache/~/media/996E740EFB20468A9BDC765A1FF79FF0.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a Custom Sorting Routine for Content/Assembly Setting" ItemIcon="/temp/IconCache/~/media/C52B6B9ADE01420EBDCC856744A2F61F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Create a goal/wffm" ItemIcon="/temp/IconCache/~/media/EA58974935CA4438ACD660750CEF1662.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Creating a List Control/Datasource List" ItemIcon="/temp/IconCache/~/media/99798820b45e4246a716102053d7de33.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Creating the Site Menu/Menu" ItemIcon="/temp/IconCache/~/media/d23fccc949994d049452407c77c3eb94.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Enable multiple languages/language_wizard" ItemIcon="/temp/IconCache/~/media/8F11AAD699784CD0BF8E792AFE3F9A49.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Information Architecture/Template Structure" ItemIcon="/temp/IconCache/~/media/d747a11de38244939512a97b5648ccce.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/marketingspot/marketingspot" ItemIcon="/temp/IconCache/~/media/0dbc62f8303f4ad5aa0721f6d5c8e4aa.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Inline Personalization/Rule Set Editor" ItemIcon="/temp/IconCache/~/media/AF9EB3F4E66A4635A6E2E678D347BC23.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multilingual Multiregional/clones3" ItemIcon="/temp/IconCache/~/media/22C84FF9255347CE9AC19FA5D4251046.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Multivariate Tests/Variation" ItemIcon="/temp/IconCache/~/media/516999F90D184322800795C296FD94A9.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Sitecore User Interfaces/validation" ItemIcon="/temp/IconCache/~/media/B023AD92E7E148EBA0E802ED7EBD03E4.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Tag Content for each Profile/Profiles" ItemIcon="/temp/IconCache/~/media/6751DA7C00FB4049AB1189DEEFFFEC88.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Content/inherited" ItemIcon="/temp/IconCache/~/media/4b2d82bc97c94a499839aa19522e552d.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/What is Presentation/presentationdetails" ItemIcon="/temp/IconCache/~/media/2E45F94E1CD54FF382157C46E7B0B189.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Workflow" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Article Screenshots/Workflow/workflow" ItemIcon="/temp/IconCache/~/media/F20F3F127DC8402BADC20A73C831A6C5.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Abstract Images/winter tree" ItemIcon="/temp/IconCache/~/media/ed351155dd0a4200a4a93f61853581c8.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Sitecore Branding" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Carousel Backgrounds/Sitecore Branding/teal" ItemIcon="/temp/IconCache/~/media/d46321e00195495ea4380519964cf9c6.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Contributors/Tim Gardner" ItemIcon="/temp/IconCache/~/media/153cb3da6ba64aa78255ccf22226b9ea.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/General Use/Vancouver" ItemIcon="/temp/IconCache/~/media/7DF0937C9DFB4D7E8334F0BE97A224E3.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Glossary/Workbox" ItemIcon="/temp/IconCache/~/media/4AF5ADF2F0EF4F399EAFAADADED0025B.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Color/windows" ItemIcon="/temp/IconCache/~/media/65EBF46060824C6B82838BEB3C871A84.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/a-b/bullhorn-2" ItemIcon="/temp/IconCache/~/media/080680009AE54EC4AFD712AF84A5F8B1.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/c-f/fork" ItemIcon="/temp/IconCache/~/media/6D0D8ED1E5FC4CC9971B750BF59AE328.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/g-o/outgoing-2" ItemIcon="/temp/IconCache/~/media/FF08FED692864440806D346F78CA4943.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/p-s/switch-on" ItemIcon="/temp/IconCache/~/media/E3082F278B514E58BA4FA3C92C75DC3F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/Monochrome/t-z/zoom-out-2" ItemIcon="/temp/IconCache/~/media/A53FDC5A17B845E697D056958DF73DAA.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/General Images/Woman in Suit" ItemIcon="/temp/IconCache/~/media/D9F85D74AF1E4E3E87C80B809CD7BB5F.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Pawns/Yellow Pawn" ItemIcon="/temp/IconCache/~/media/F6D0CA49E5E44B31BB4225BA0DB61B16.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Icons/People/Specialty Images" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Logos" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Site Images/Logos/Monochrome Logo" ItemIcon="/temp/IconCache/~/media/a870fcc2fd6040ca9ebba033cb5c5da2.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Lists/Team List" ItemIcon="/temp/IconCache/~/media/439bbec1878a430d8aa3028228fa3a52.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Secure/Register" ItemIcon="/temp/IconCache/~/media/fe83a9f648c747f6a54e5ab942cc0b6a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Controls/Single Item/Title and Body" ItemIcon="/temp/IconCache/~/media/4755fd3a9426406695126e0a2c63325a.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Content/right sidebar" ItemIcon="/temp/IconCache/~/media/c5f7948d894d49209383e93cd5e1c910.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/media library/Launch Sitecore/Page Editor Thumbnails/Views/Home/one two four one" ItemIcon="/temp/IconCache/~/media/6352b9064f824adb8217f185dd0bc446.ashx?h=16&amp;thn=1&amp;w=16" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Blue Black" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Color/Red" ItemIcon="/~/icon/People/32x32/brush4.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Layout Style/Full Width" ItemIcon="/~/icon/Software/32x32/layout_horizontal.png.aspx" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts" ItemIcon="/temp/IconCache/Applications/32x32/check.png" />
+  <Item ItemPath="/sitecore/system/Modules/Launch Sitecore/Page Editor Alerts/visit details are not available in page editor" ItemIcon="/~/icon/business/16x16/message.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/General Fields/General" ItemIcon="/temp/IconCache/Business/16x16/paperclip.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/General Fields/General/Image" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Site Section/__Standard Values" ItemIcon="/~/icon/People/16x16/cubes.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Title Abstract and Text" ItemIcon="/temp/IconCache/Applications/32x32/text_rich.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Title Abstract and Text/__Standard Values" ItemIcon="/~/icon/Applications/32x32/text_rich.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Base Templates/Title Abstract and Text/Main/Body" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/form_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article/Article/Prerequisite Articles" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Article Group/__Standard Values" ItemIcon="/temp/iconcache/software/32x32/component_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Audience Segment/__Standard Values" ItemIcon="/temp/iconcache/applications/16x16/photo_portrait.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Error Page/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/forbidden.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/General Page/__Standard Values" ItemIcon="/temp/iconcache/applications/16x16/document.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home/__Standard Values" ItemIcon="/temp/iconcache/network/32x32/home.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Home/Home/Call to Action Link" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Microsite Subpage/__Standard Values" ItemIcon="/temp/IconCache/people/32x32/product2.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Security Page/__Standard Values" ItemIcon="/temp/iconcache/network/16x16/key1.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Articles Section/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Audience Section/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/clipboard.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Glossary Section/__Standard Values" ItemIcon="/temp/iconcache/people/32x32/book_blue.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Team Section" ItemIcon="/temp/IconCache/People/32x32/users4.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Site Sections/Team Section/__Standard Values" ItemIcon="/temp/iconcache/people/32x32/users4.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Team Member/__Standard Values" ItemIcon="/temp/iconcache/people/16x16/user1.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Team Member/Main/Job Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Team Member/Team Member Details/Quote" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Term/__Standard Values" ItemIcon="/temp/iconcache/business/32x32/address_book3.png" />
+  <Item ItemPath="/sitecore/templates/Launch Sitecore/Term/Term/Usage" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item" ItemIcon="/temp/IconCache/Multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Set" ItemIcon="/temp/IconCache/Multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot" ItemIcon="/temp/IconCache/Applications/16x16/star_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Quotation" ItemIcon="/temp/IconCache/Applications/32x32/about.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Text Widget" ItemIcon="/temp/IconCache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Color" ItemIcon="/temp/IconCache/People/32x32/brush4.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration" ItemIcon="/temp/IconCache/applications/16x16/gear.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/External Site" ItemIcon="/temp/IconCache/core3/32x32/home_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Layout Style" ItemIcon="/temp/IconCache/Software/32x32/layout_horizontal.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item" ItemIcon="/temp/IconCache/people/32x32/wrench.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Type" ItemIcon="/temp/IconCache/people/32x32/screwdriver.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Page Editor Message" ItemIcon="/temp/IconCache/business/16x16/message.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Query" ItemIcon="/temp/IconCache/Applications/32x32/view_next.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Site Root" ItemIcon="/temp/IconCache/Core3/32x32/home_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item" ItemIcon="/temp/IconCache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/__Standard Values" ItemIcon="/temp/IconCache/multimedia/32x32/image.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Set/__Standard Values" ItemIcon="/temp/IconCache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot" ItemIcon="/temp/IconCache/Applications/16x16/star_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/General" ItemIcon="/temp/IconCache/Applications/16x16/star_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/__Standard Values" ItemIcon="/temp/iconcache/applications/16x16/star_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Quotation/Quotation Details" ItemIcon="/temp/IconCache/applications/32x32/about.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Quotation/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/about.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Text Widget/Text Widget" ItemIcon="/temp/IconCache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Text Widget/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Presentation" ItemIcon="/temp/IconCache/people/16x16/palette.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Colors" ItemIcon="/temp/IconCache/People/16x16/palette.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Meta" ItemIcon="/temp/IconCache/Applications/32x32/bookmark.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item" ItemIcon="/temp/IconCache/People/32x32/wrench.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Page Editor Message/Data" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Query/Query" ItemIcon="/temp/IconCache/applications/32x32/view_next.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Site Root/__Standard Values" ItemIcon="/temp/iconcache/core3/32x32/home_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Caption" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Link Text" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Link Item" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Image" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Carousel Item/Carousel Item/Use Dark Text" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot/Text" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot/Link To" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/General/Image" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Quotation/Quotation Details/Quotation" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Text Widget/Text Widget/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Presentation/Site Logo" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Colors/Header Color" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Colors/Menu Color" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Colors/Footer Color" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Promo Spot/Promo Spot/Link Text" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Colors/Copyright Background Color" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Meta/Page Title for Home and Site Sections" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Meta/Page Title for Lower Pages" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Menu Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Show Item In Menu" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Show Children In Menu" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Page Editor Message/Data/Key" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Query/Query/Title" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Query/Query/Query" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Query/Query/Items" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Site Root/Site Root/Site Name" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Color/Settings" ItemIcon="/temp/IconCache/People/32x32/brush4.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Color/Settings/Color Value" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Colors/Background Color" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Colors/Site Color" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Copyright" ItemIcon="/temp/IconCache/Business/32x32/codes_of_law.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Copyright/Copyright" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Meta/Title Comments" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Presentation/Layout Style" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Quotation/Quotation Details/Author" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Profiling" ItemIcon="/temp/IconCache/Business/32x32/radar-chart.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Configuration/Profiling/Visible Profiles" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Content Templates/Text Widget/Text Widget/Text" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/External Site/External Site" ItemIcon="/temp/IconCache/core3/32x32/home_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/External Site/External Site/Site Link" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/__Standard Values" ItemIcon="/temp/iconcache/people/32x32/wrench.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Show Item In Footer Menu" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Menu Item/Show Item In Secondary Menu" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Site Search" ItemIcon="/temp/IconCache/People/32x32/wrench.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Menu Item/Site Search/Show In Search Results" ItemIcon="/~/icon/Applications/32x32/Document.png.aspx" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Page Editor Message/__Standard Values" ItemIcon="/temp/iconcache/business/16x16/message.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Page Editor Message/Data/Alert" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Query/__Standard Values" ItemIcon="/temp/iconcache/applications/32x32/view_next.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Query/Query/Comment" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Site Root/Site Root" ItemIcon="/temp/IconCache/core3/32x32/home_yellow.png" />
+  <Item ItemPath="/sitecore/templates/Global/Settings Templates/Site Root/Site Root/Show in Sites Menu" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+</ItemIconCache>

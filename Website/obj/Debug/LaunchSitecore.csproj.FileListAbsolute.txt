@@ -1,0 +1,8 @@
+D:\Sitecore\launchsitecore\Website\obj\Debug\LaunchSitecore.csprojResolveAssemblyReference.cache
+D:\Sitecore\launchsitecore\Website\bin\LaunchSitecore.dll.config
+D:\Sitecore\launchsitecore\Website\bin\LaunchSitecore.dll
+D:\Sitecore\launchsitecore\Website\bin\LaunchSitecore.pdb
+D:\Sitecore\launchsitecore\Website\bin\System.Web.Mvc.xml
+D:\Sitecore\launchsitecore\Website\bin\System.Web.WebPages.xml
+D:\Sitecore\launchsitecore\Website\obj\Debug\LaunchSitecore.dll
+D:\Sitecore\launchsitecore\Website\obj\Debug\LaunchSitecore.pdb
