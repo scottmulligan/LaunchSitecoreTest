@@ -244,7 +244,7 @@
     <Content Include="assets\js\jquery-ui.min.js" />
     <Content Include="assets\js\scrollReveal.js" />
     <Content Include="favicon.ico" />
-    <Content Include="Global.asax" />
+    <None Include="Global.asax" />
     <Content Include="license.txt" />
   </ItemGroup>
   <ItemGroup>
