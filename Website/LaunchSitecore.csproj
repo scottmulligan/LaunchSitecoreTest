@@ -41,13 +41,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="EntityFramework">
+      <HintPath>..\Assemblies\EntityFramework.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Sitecore.Analytics">
@@ -93,6 +89,7 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.DynamicData" />
@@ -117,7 +114,6 @@
     <Reference Include="System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\System.Web.WebPages.dll</HintPath>
-      <Private>False</Private>
     </Reference>
     <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -191,38 +187,26 @@
     <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Controllers\SingleItemController.cs" />
     <Compile Include="Controllers\VisitController.cs" />
-    <Compile Include="assets\Models\AccountModels.cs" />
-    <Compile Include="assets\Models\CarouselItem.cs" />
-    <Compile Include="assets\Models\Error.cs" />
-    <Compile Include="assets\Models\GenericLink.cs" />
-    <Compile Include="assets\Models\JumbotronItem.cs" />
-    <Compile Include="assets\Models\MenuItem.cs" />
-    <Compile Include="assets\Models\MenuItemList.cs" />
-    <Compile Include="assets\Models\PageEditorAlert.cs" />
-    <Compile Include="assets\Models\PromoItem.cs" />
-    <Compile Include="assets\Models\QuotationItem.cs" />
-    <Compile Include="assets\Models\SearchResults.cs" />
-    <Compile Include="assets\Models\SimpleItem.cs" />
-    <Compile Include="assets\Models\SimpleItemList.cs" />
-    <Compile Include="assets\Models\SimpleNavigationItem.cs" />
-    <Compile Include="assets\Models\TextWidgetItem.cs" />
-    <Compile Include="assets\Models\VisitInformation.cs" />
+    <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\CarouselItem.cs" />
+    <Compile Include="Models\Error.cs" />
+    <Compile Include="Models\GenericLink.cs" />
+    <Compile Include="Models\JumbotronItem.cs" />
+    <Compile Include="Models\MenuItem.cs" />
+    <Compile Include="Models\MenuItemList.cs" />
+    <Compile Include="Models\PageEditorAlert.cs" />
+    <Compile Include="Models\PromoItem.cs" />
+    <Compile Include="Models\QuotationItem.cs" />
+    <Compile Include="Models\SearchResults.cs" />
+    <Compile Include="Models\SimpleItem.cs" />
+    <Compile Include="Models\SimpleItemList.cs" />
+    <Compile Include="Models\SimpleNavigationItem.cs" />
+    <Compile Include="Models\TextWidgetItem.cs" />
+    <Compile Include="Models\VisitInformation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\speak\LaunchFieldEditor.js" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net40\EntityFramework.dll" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net40\EntityFramework.SqlServer.dll" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net40\EntityFramework.SqlServer.xml" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net40\EntityFramework.xml" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.xml" />
-    <Content Include="packages\EntityFramework.6.1.3\lib\net45\EntityFramework.xml" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\about_EntityFramework.help.txt" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\EntityFramework.PowerShell.dll" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\EntityFramework.PowerShell.Utility.dll" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\migrate.exe" />
     <Content Include="Views\Shared\ErrorDetails.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -341,21 +325,16 @@
     <Content Include="App_Config\Include\www.LaunchSitecore.PageEditor.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="Views\Page Structure\Home\One Four One.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Page Structure\Content\No Sidebars.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages\EntityFramework.6.1.3\content\App.config.transform" />
-    <Content Include="packages\EntityFramework.6.1.3\content\Web.config.transform" />
-    <Content Include="packages\EntityFramework.6.1.3\EntityFramework.6.1.3.nupkg" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\EntityFramework.psd1" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\EntityFramework.psm1" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\init.ps1" />
-    <Content Include="packages\EntityFramework.6.1.3\tools\install.ps1" />
-    <Content Include="packages.config" />
-    <None Include="Web.config" />
+    <Content Include="Web.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
